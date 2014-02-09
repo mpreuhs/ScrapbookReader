@@ -1,0 +1,1152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css"><title>Default Safari Online - Swing Hacks</title>
+<link rel="stylesheet" type="text/css" href="index.css" media="all">
+</head>
+<body>
+
+<!--Chapter 9. Drag-and-Drop-->
+<cite class="scrapbook-header-invisible">
+	<img src="chrome://scrapbook/skin/treeitem.png" height="16" width="16">
+	<span>Chapter 9. Drag-and-Drop</span>
+	<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0">http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghack...</a>
+</cite>
+<div id="item20050923123219">
+<table cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="left">
+<!--DOCUMENT_FRAGMENT-->
+<div id="section"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h2 class="docChapterTitle">Chapter 9. Drag-and-Drop</h2>
+<a name="idx-CHP-9-1146"></a>
+
+<ul></ul></td></tr></tbody></table></div><!--Preuhs--><p><b>URL</b>&nbsp;<a aiotitle="http://safari.bvdep.com/0596009070/swinghacks-CHP-9" class="v2" href="http://safari.bvdep.com/0596009070/swinghacks-CHP-9">http://safari.bvdep.com/0596009070/swinghacks-CHP-9</a></p>
+<!--/DOCUMENT_FRAGMENT-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<!--9.1. Hacks 65–69: Introduction-->
+<cite class="scrapbook-header-invisible">
+	<img src="chrome://scrapbook/skin/treeitem.png" height="16" width="16">
+	<span>9.1. Hacks 65–69: Introduction</span>
+	<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-1&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0">http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghack...</a>
+</cite>
+<div id="item20050923123226">
+<table cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="left">
+<!--DOCUMENT_FRAGMENT-->
+<div id="section"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h3 class="docSection1Title">9.1. Hacks 65–69: Introduction</h3>
+<p class="docText">Several years ago, the Swing team introduced a pair of APIs for data transfer: <tt>java.awt.datatransfer</tt> and <tt>java.awt.dnd</tt>
+(Drag and Drop). The former abstracts the concept of data exchange to
+and from your application (participating with either Java or native
+applications) and provides clipboard-based copy-and-paste
+functionality. The latter particularizes these abstractions to the
+specifics of drag-and-drop behavior. While many developers use these
+APIs for working with unstyled clipboard text only, you can do much
+more. Both Drag and Drop events and the clipboard support images, <tt>URLs, <a name="idx-CHP-9-1147"></a>Files</tt>, and even custom Java objects.</p>
+
+<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/23041535&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0"><img src="pixel.gif" alt="" border="0" height="1" width="1"></a><ul></ul></td></tr></tbody></table></div><!--Preuhs--><p><b>URL</b>&nbsp;<a class="v2" href="http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-1">http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-1</a></p>
+<!--/DOCUMENT_FRAGMENT-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<!--Hack 65. Drag-and-Drop with Files-->
+<cite class="scrapbook-header-invisible">
+	<img src="chrome://scrapbook/skin/treeitem.png" height="16" width="16">
+	<span>Hack 65. Drag-and-Drop with Files</span>
+	<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-2&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0">http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghack...</a>
+</cite>
+<div id="item20050923123234">
+<table cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="left">
+<!--DOCUMENT_FRAGMENT-->
+<div id="section"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h3 class="docSection1Title">Hack 65. Drag-and-Drop with Files</h3>
+<p class="docText"><img alt="" src="untitled" align="middle" border="0" height="36" width="14"> <img alt="" src="untitled_001.dat" align="middle" border="0" height="36" width="36"></p>
+<p class="docText"><span class="docEmphBold">Drag files from your application directly to the desktop, complete with translucent icons</span>.</p>
+<p class="docText">This hack shows you how to go much further than mere
+clipboard access by digging into the lower levels of the Drag and Drop
+APIs and building a program that can save files directly to the desktop
+via dragging, complete with proper file icons and drag feedback.</p>
+<p class="docText">When you use an editor to write a large document, you often save it to a particular location on your filesystem—in a <span class="docEmphasis">Projects</span>
+folder perhaps. This is because you will keep the file around for a
+long time, so you want to store it for later use. Small documents,
+however, are often created for transient reasons. I often write a few
+paragraphs and then immediately post it to a weblog or attach it to an
+email. Some applications (particularly those on Mac OS X) let you save
+something quickly by dragging a small marker into another application
+or the desktop. The marker represents the file and lets you quickly
+move the entire file into another context (a blog editor, for example)
+without thinking about where to save the file (and trying to remember
+where you stashed it 10 minutes later).</p>
+<p class="docText">Since drag-to-save behavior is not a standard part
+of the Java platform, you will have to build it from scratch using the
+Drag and Drop APIs. First, you will need a class that can trigger the
+drop action. The plan is to detect the gesture, create a temp file to
+be saved, and then start the real drag with the appropriate cursor and
+user feedback. Here's a starting point:</p>
+<pre>	<a name="idx-CHP-9-1148"></a>class FileDragGestureListener extends <a name="idx-CHP-9-1149"></a>DragSourceAdapter
+		implements DragGestureListener {
+		JTextArea text;
+		Cursor cursor;
+		public FileDragGestureListener(JTextArea text) {
+			this.text = text;
+	}
+</pre><br>
+
+<p class="docText">The <tt>FileDragGestureListener</tt> implements <tt>DragGestureListener</tt> and extends the <tt>DragSourceAdapter</tt>. Swing sends all drag events to a <tt>DragSource</tt> listener.</p>
+<p><table align="center" bgcolor="black" border="0" cellpadding="1" cellspacing="0" width="90%"><tbody><tr><td><table bgcolor="white" border="0" cellpadding="6" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="60"><img src="pushpin.gif" alt="" height="51" width="52"></td><td valign="top">
+<p class="docText">Extending the <tt>DragSourceAdapter</tt>, instead of implementing <tt>DragSource</tt> directly, lets your class avoid implementing all of the required methods. <tt>DragSourceAdapter</tt> gives you empty, no-op implementations of all the methods in <tt>DragSource</tt>.</p>
+</td></tr></tbody></table></td></tr></tbody></table></p><br>
+<p class="docText"><tt>FileDragGestureListener</tt> accepts a component to grab the text from. Any provider of text would work, but I chose a <tt>JTextArea</tt> because it's the most likely to be used in a text editor.</p>
+<p class="docText">All operating systems define a <span class="docEmphasis"><a name="idx-CHP-9-1150"></a>drag gesture</span>,
+which usually means something like "click and drag for more than 10
+pixels," though it varies from platform to platform. Swing will detect
+the drag gesture and send an event to a <tt>DragGestureListener</tt>, which is why <tt>FileDragGestureListener</tt> also implements that interface. <tt>DragGestureListener</tt> defines one method: <tt>dragGestureRecognized</tt>( ). This is where the real work of this hack is done:</p>
+<pre>	public void dragGestureRecognized(DragGestureEvent evt) {
+		try {
+
+			// generate the temp file
+			<a name="idx-CHP-9-1151"></a>File proxy_temp = File.<a name="idx-CHP-9-1152"></a>createTempFile("tempdir",".dir",null);
+			File temp = new File(proxy_temp.getParent( ),"myfile.txt");
+			FileOutputStream out = new FileOutputStream(temp);
+			out.write(text.getText( ).getBytes( ));
+			out.close( );
+</pre><br>
+
+<p class="docText">The implementation of <tt>dragGestureRecognized</tt>( ) starts by creating a temp file to store the text. Actually, first it creates a fake temp file, <tt>proxy_temp</tt>, using the <tt>File.createTempFile</tt>( ) method. Then it creates the real temp file in the same directory and writes the text data to the file. You could skip the <tt>proxy_temp</tt> part, but then if the user drags to the desktop, he will end up with a <a name="idx-CHP-9-1153"></a>filename like <a name="idx-CHP-9-1154"></a><i>myfile158392.txt</i> instead of <i>myfile.txt</i>. Using the proxy file lets you create a file with a useful name, while still keeping the file in the default temp directory.</p>
+<p class="docText">Now that the file is done, it's time to create an icon:</p>
+<pre>	// get the right icon
+	<a name="idx-CHP-9-1155"></a>FileSystemView fsv = FileSystemView.getFileSystemView( );
+	Icon icn = fsv.<a name="idx-CHP-9-1156"></a>getSystemIcon(temp);
+
+	Toolkit tk = Toolkit.getDefaultToolkit( );
+	Dimension dim = tk.getBestCursorSize(
+		icn.getIconWidth( ),icn.getIconHeight( ));
+	BufferedImage buff = new BufferedImage(dim.width,dim.height,
+				 BufferedImage.TYPE_INT_ARGB);
+	icn.paintIcon(text,buff.getGraphics( ),0,0);
+</pre><br>
+
+<p class="docText">In most operating systems, each type of file has a
+different icon, such as a little piece of paper for a text file or
+musical notes for MP3 files. You could bundle such icons with your
+program, but then they wouldn't look right on all operating systems. <tt>FileSystemView</tt> provides a platform-independent way to get the appropriate icon for any file type with the <tt>getSystemIcon</tt>( ) method.</p>
+<p class="docText">Once you have the icon, you just need the underlying image. You could cast the icon to an <tt>ImageIcon</tt>
+because most platforms use those—but the odd platform here or there
+might not. It's much safer to draw the icon into a new buffered image.
+Drawing into a new image also lets you convert the icon to the right
+cursor size without resizing it. Without this step, the operating
+system might resize the image on its own, resulting in a messy drag
+icon that looks horrible. Note the <tt>BufferedImage</tt> is created with <tt>TYPE_INT_ARGB</tt>. This preserves any transparency that may be in the native system icons (e.g., on Mac OS X).</p>
+<p class="docText">With the file and image in place, it's time to start the drag:</p>
+<pre>	// set up drag image
+	if(DragSource.isDragImageSupported( )) {
+
+		evt.startDrag(DragSource.DefaultCopyDrop, buff,
+				new Point(0,0),
+				new TextFileTransferable(temp),
+				this);
+
+	} else {
+		cursor = tk.createCustomCursor(buff,new Point(0,0),"billybob");
+		evt.startDrag(cursor, null, new Point(0,0),
+		
+				new TextFileTransferable(temp),
+				this);
+	}
+
+	// end the try/catch block and handle exceptions
+</pre><br>
+
+<p class="docText">Some operating systems support the idea of a <span class="docEmphasis"><a name="idx-CHP-9-1157"></a>drag image</span>.
+This is a small image underneath the cursor representing what is being
+dragged. For OS X, this is usually a translucent version of the file
+icon. Windows doesn't support <a name="idx-CHP-9-1158"></a>drag
+images, so you can just make the cursor itself be the file icon. That's
+not quite as nice, but it gives the user the same effect. In the
+previous code, <tt><a name="idx-CHP-9-1159"></a>DragSource.isDragImageSupported</tt>( <a name="idx-CHP-9-1160"></a>) lets you know which way to go. If drag images are supported, then it starts a new drag with <tt>evt.startDrag</tt>( ), passing in the default copy cursor, the drag image, the cursor hotspot on the drag image, a <tt>transferable</tt> for the temp file (more on this later), and a <tt>DragSource. FileDragGestureListener</tt> just passes in <tt>this</tt> because it also extends the <tt>DragSourceAdapter</tt>.
+If drag images are not supported, then the code creates a custom cursor
+using the icon and starts the drag using the new cursor.</p>
+<p class="docText">Once the drag is started, Swing will provide you
+with callbacks each time the user moves the cursor and enters or exits
+an area where the file could be dropped. To provide feedback about
+whether a file can be dropped over the current location, you should
+override the <tt>dragEnter</tt>( ) and <tt>dragExit</tt>( ) methods in <tt>DragSourceAdapter</tt> to switch the cursor and reflect the current drop target:</p>
+<pre>	public void <a name="idx-CHP-9-1161"></a>dragEnter(DragSourceDragEvent evt) {
+		DragSourceContext ctx = evt.getDragSourceContext( );
+		ctx.setCursor(cursor);
+	}
+
+	public void dragExit(DragSourceEvent evt) {
+		DragSourceContext ctx = evt.getDragSourceContext( );
+		ctx.setCursor(DragSource.DefaultCopyNoDrop);
+	}
+</pre><br>
+
+<p class="docText">Earlier, I mentioned the <tt><a name="idx-CHP-9-1162"></a>TextFileTransferable</tt> class. The Drag and Drop APIs, along with the clipboard, define something known as a <tt>transferable</tt>. This is a wrapper around some <a name="idx-CHP-9-1163"></a>data
+that describes the flavor of the data and provides access to the data
+itself. You can think of a flavor as a MIME type. Thus, a transferable
+for images would support the <tt>DataFlavor.imageFlavor</tt> flavor, and a text transferable would support the <tt>stringFlavor</tt>. You can create your own flavors, too, but it's always better to use the standard ones if you can.</p>
+<p class="docText">The <tt>TextFileTransferable</tt> (in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-1">Example 9-1</a>) holds a single text file and can transfer it using the <tt>javaFileListFlavor</tt>, which represents a <tt>java.util.List</tt> containing <tt>File</tt> objects.</p>
+<a name="swinghacks-CHP-9-EXAMPLE-1"></a>
+<h5 class="docExampleTitle">Example 9-1. Building a temporary file holder</h5>
+<pre>	class TextFileTransferable implements Transferable { 
+		File temp;
+
+		public TextFileTransferable(File temp) throws IOException {
+			this.temp = temp;
+		}
+
+		public Object getTransferData(DataFlavor flavor) {
+			List list = new ArrayList( );
+			list.add(temp);
+			return list;
+
+		}	
+
+		public DataFlavor[] getTransferDataFlavors( ) {
+			DataFlavor[] df = new DataFlavor[1];
+			df[0] = DataFlavor.javaFileListFlavor;
+			return df;
+
+		}
+
+		public boolean isDataFlavorSupported(DataFlavor flavor) {
+			if(flavor == DataFlavor.javaFileListFlavor) {
+				return true;
+			}
+			return false;
+
+		} 
+	}
+</pre><br>
+
+
+<p class="docText"><tt>TextFileTransferable</tt> implements <tt>TRansferable</tt> and only recognizes the <tt>javaFileListFlavor. getTransferData</tt>( ) returns the single file wrapped in an <tt>ArrayList. getTransferDataFlavors</tt>( ) returns an array with only one element: <tt>javaFileListFlavor</tt>. And <tt>isDataFlavorSupported</tt> returns true if the specified flavor is a <tt>javaFileListFlavor</tt>.</p>
+<p class="docText">With all of the components in place, it's time to make a simple application to pull it all together (see <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-2">Example 9-2</a>).</p>
+<a name="swinghacks-CHP-9-EXAMPLE-2"></a>
+<h5 class="docExampleTitle">Example 9-2. Testing out drag-and-drop</h5>
+<a name="idx-CHP-9-1164"></a>
+<pre>public class FileDropper {
+	public static void main(String[] args) throws IOException {
+		JFrame frame = new JFrame("<a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-SECT-2"><span class="docEmphBold">Hack #65</span></a>: Drag-and-Drop with <a name="idx-CHP-9-1165"></a>Files");
+		frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
+
+		FileSystemView fsv = FileSystemView.getFileSystemView( );
+		Icon icon = fsv.getSystemIcon(File.createTempFile("myfile.",".txt"));
+		ImageIcon iicn = (ImageIcon)icon;
+		
+		frame.getContentPane( ).setLayout(new BorderLayout( ));
+		JTextArea text = new JTextArea( );
+
+		JLabel label = new JLabel("myfile.txt",icon,SwingConstants.CENTER);
+		DragSource ds = DragSource.getDefaultDragSource( ); 
+		DragGestureRecognizer dgr = ds.createDefaultDragGestureRecognizer(
+			label,
+			DnDConstants.ACTION_MOVE,
+			new FileDragGestureListener(text));
+
+		frame.getContentPane( ).add("North",label);
+		frame.getContentPane( ).add("Center",text);
+
+		frame.pack( );
+		frame.setSize(400,300);
+		frame.setVisible(true);
+	}
+ }
+</pre><br>
+
+
+<p class="docText"><tt>FileDropper</tt> creates a new frame with a
+label and a text area. The label gets a text file icon, the same as the
+drag operation from earlier. The crucial part of the code is the <tt>ds.createDefaultDragGestureRecognizer</tt>(
+) call. This ties the system-wide drag class to your custom recognizer.
+Without this call, the system would know nothing about your
+customizations, and nothing would happen when the user tries to drag
+the label to another application or the desktop. With the call, though,
+the cursor will switch to show a small text icon and the user can
+successfully drag the file to any place that accepts it (see <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-1">Figure 9-1</a>). Now you can save <a name="idx-CHP-9-1166"></a>files or transfer them without ever going to a Save File dialog or having to navigate hierarchies of folders.</p>
+<a name="swinghacks-CHP-9-FIG-1"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-1. Drag-and-drop a file</h5>
+<a name="idx-CHP-9-1167"></a>
+<img alt="" src="untitled_002.dat" border="0" height="153" width="202">
+</center><p></p><br>
+
+<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/23041535&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0"><img src="pixel_001.gif" alt="" border="0" height="1" width="1"></a><ul></ul></td></tr></tbody></table></div><!--Preuhs--><p><b>URL</b>&nbsp;<a class="v2" href="http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-2">http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-2</a></p>
+<!--/DOCUMENT_FRAGMENT-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<!--Hack 66. Handle Dropped URLs-->
+<cite class="scrapbook-header-invisible">
+	<img src="chrome://scrapbook/skin/treeitem.png" height="16" width="16">
+	<span>Hack 66. Handle Dropped URLs</span>
+	<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-3&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0">http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghack...</a>
+</cite>
+<div id="item20050923123243">
+<table cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="left">
+<!--DOCUMENT_FRAGMENT-->
+<div id="section"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h3 class="docSection1Title">Hack 66. Handle Dropped URLs</h3>
+<a name="idx-CHP-9-1168"></a>
+<p class="docText"><img alt="" src="untitled_003.dat" align="middle" border="0" height="36" width="14"> <img alt="" src="untitled_001_001.dat" align="middle" border="0" height="36" width="36"></p>
+<p class="docText"><span class="docEmphBold">Drag-and-drop is like a box of chocolates; you never know what you're going to get…</span>.</p>
+<p class="docText">Bookmark menus are so 1995. Today, you should expect
+to be able to drag URLs to other applications and have those
+applications open web pages, store the address in a bookmark database,
+start an email in response to a <tt>mailto</tt>: URL, etc. Java's networking chops are well-established and aren't the problem here. The issue is actually <a name="idx-CHP-9-1169"></a>getting the URL itself from the drop.</p>
+<p class="docText">To accept drops of native objects, your GUI needs to designate some <tt>Component</tt> as the onscreen drop target. Your code then implements the <tt>DropTarget</tt>
+interface, which means your implementation will get callbacks when the
+user drags the mouse into your component, over it, out of it, etc. Most
+of <tt>DropTarget's</tt> methods can be left as no-ops; for now, only the <tt>drop</tt>( ) method matters.</p>
+<p class="docText">What's interesting about <a name="idx-CHP-9-1170"></a>native
+drag-and-drop (and copy-and-paste, for that matter) is that there's not
+necessarily one way to represent the data being transferred. Instead,
+you do a sort of negotiation with the <tt>transferable</tt> passed to you by the <tt>DropTargetDropEvent</tt>: it specifies, in order of robustness, which <tt>DataFlavors</tt> it can deliver, or you ask whether specific <tt>DataFlavors</tt> are supported.</p>
+<p class="docText">In the demo code in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-3">Example 9-3</a>, I have a method called <tt>dumpDataFlavors</tt>( ), which shows the <tt>DataFlavors</tt> offered to you by the drop. You can use <tt>System.out.println</tt>(
+) on a particular flavor to get its MIME type, which describes the
+contents of the drop, and a representation class, which indicates how
+those contents will be provided to you by <tt>TRansferable. getTransferData</tt>( ). For example, some browsers will give you a <tt>java.net. URL</tt>, whose <tt>DataFlavor</tt> looks like this:</p>
+<pre>	java.awt.datatransfer.DataFlavor[mimetype=application/x-java-url;
+ 		representationclass=java.net.URL] 
+</pre><br>
+
+<p class="docText">One thing that's surprising is the number of <tt>DataFlavors</tt> offered by popular web browsers. <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-TABLE-1">Table 9-1</a> is a short listing of some of the browsers I tested.</p>
+<a name="swinghacks-CHP-9-TABLE-1"></a><p><table border="1" cellpadding="4" cellspacing="0" rules="all" width="100%"><caption><h5 class="docTableTitle">Table 9-1. Browsers and their supported DataFlavors</h5></caption><colgroup><col><col></colgroup><thead><tr><th class="thead" scope="col"><p class="docText">Browser</p></th><th class="thead" scope="col"><p class="docText">Supported DataFlavors</p></th></tr></thead><tbody><tr><td class="docTableCell"><p class="docText">Firefox 1.0 / Windows XP</p></td><td class="docTableCell"><p class="docText">78</p></td></tr><tr><td class="docTableCell"><p class="docText">MSIE 6.0 / Windows XP</p></td><td class="docTableCell"><p class="docText">53</p></td></tr><tr><td class="docTableCell"><p class="docText">Safari 1.3 / Mac OS X</p></td><td class="docTableCell"><p class="docText">53</p></td></tr><tr><td class="docTableCell"><p class="docText">Firefox 1.0 / Mac OS X</p></td><td class="docTableCell"><p class="docText">30</p></td></tr><tr><td class="docTableCell"><p class="docText">MSIE 5.2.3 / Mac OS X</p></td><td class="docTableCell"><p class="docText">53</p></td></tr></tbody></table></p><br>
+<p class="docText">Fortunately, a few <tt>DataFlavors</tt> appear on the lists for each browser, so your drop can just handle these common cases.</p>
+<p class="docText">The <tt>URLDropTargetDemo</tt> class in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-3">Example 9-3</a> presents a large Drop Here label and a <tt>JTextField</tt> to show the <a name="idx-CHP-9-1171"></a>dropped URL. I could have opened a stream from that URL and rendered its contents in Swing's <tt>HTMLEditorKit</tt>,
+but the result looks so bad with real-world web pages that it wasn't
+worth it. Besides, your app might be doing something other than opening
+web pages, such as storing bookmarks or starting emails.</p>
+<a name="swinghacks-CHP-9-EXAMPLE-3"></a>
+<h5 class="docExampleTitle">Example 9-3. A drop target for URLs</h5>
+<pre>	public class URLDropTargetDemo extends JPanel 
+		implements DropTargetListener {
+		
+		DropTarget dropTarget;
+		JLabel dropHereLabel;
+		JTextField statusField;
+		static DataFlavor urlFlavor;
+		static {
+			try { 
+				urlFlavor = 
+				new DataFlavor ("application/x-java-url; class=java.net.URL"); 
+			} catch (ClassNotFoundException cnfe) { 
+				cnfe.printStackTrace( ); 
+			}
+		}
+
+		public URLDropTargetDemo( )  {
+			super(new BorderLayout( ));
+			dropHereLabel = new JLabel ("Drop here",
+							 SwingConstants.CENTER);
+
+			dropHereLabel.setFont (getFont( ).deriveFont (Font.BOLD, 24.of)); 
+			add (dropHereLabel, BorderLayout.CENTER);
+			// set up drop target stuff 
+			dropTarget = new DropTarget (dropHereLabel, this); 
+			statusField = new JTextField (30); 
+			statusField.setEditable(false);
+			add (statusField, BorderLayout.SOUTH);
+		}
+
+		public static void main (String[] args) {
+			JFrame frame = new JFrame ("URL DropTarget Demo");
+			URLDropTargetDemo demoPanel = new URLDropTargetDemo( );
+			frame.getContentPane( ).add (demoPanel);
+			frame.pack( );
+			frame.setVisible(true);
+		}
+
+		// drop target listener events
+		public void dragEnter (DropTargetDragEvent dtde) {}
+
+		public void dragExit (DropTargetEvent dte) {}
+
+		public void dragOver (DropTargetDragEvent dtde) {}
+
+		public void drop (DropTargetDropEvent dtde) {
+			System.out.println ("drop");
+			dtde.acceptDrop (DnDConstants.ACTION_COPY_OR_MOVE);
+			Transferable trans = dtde.getTransferable( );
+			dumpDataFlavors (trans);
+			boolean gotData = false;
+			try {
+
+				// try for application/x-java-url flavor
+				if (trans.isDataFlavorSupported (urlFlavor)) { 
+				URL url = (URL) trans.getTransferData (urlFlavor);
+				statusField.setText (url.toString( )); 
+				statusField.setCaretPosition (0); 
+				gotData = true;
+				} else if (trans.isDataFlavorSupported (DataFlavor.stringFlavor)) { 
+				// try for string flavor 
+				String s =
+				(String) trans.getTransferData (DataFlavor.stringFlavor); 
+				statusField.setText (s); 
+				gotData = true;
+				}
+			} catch (Exception e) {
+				e.printStackTrace( );
+			} finally {
+				System.out.println ("gotData is " + gotData);
+				dtde.dropComplete (gotData);
+			}
+		}
+
+		public void dropActionChanged (DropTargetDragEvent dtde) {}
+
+		private void dumpDataFlavors (Transferable trans) {
+			System.out.println ("Flavors:");
+			DataFlavor[] flavors = trans.getTransferDataFlavors( );
+			for (int i=0; i&lt;flavors.length; i++) {
+				System.out.println ("*** " + i + ": " + flavors[i]); 
+			}
+		}
+	}
+</pre><br>
+
+
+<p class="docText">A static initializer sets up a flavor for getting real <tt><a name="idx-CHP-9-1172"></a>java.net.URLs</tt> (MIME type <tt>application/x-java-url</tt>)from applications that provide them. The only other <tt>DataFlavor</tt> you'll need is a string flavor that exists as a constant in the <tt>DataFlavor</tt> class itself.</p>
+<p class="docText">The constructor does all the work needed to accept drops. Really, this just consists of creating a <tt>DropTarget</tt>, which requires a <tt>Component</tt> <a name="idx-CHP-9-1173"></a>(the "Drop here" label), and a class implementing the <tt><a name="idx-CHP-9-1174"></a>DropTargetListener</tt> interface.</p>
+<p class="docText">In the <tt>drop</tt>( <a name="idx-CHP-9-1175"></a>) method, you need to <tt>acceptDrop</tt>( ) to begin the process of <a name="idx-CHP-9-1176"></a>handling the drop. Pull out the <tt>transferable</tt> from the <tt><a name="idx-CHP-9-1177"></a>DropTargetDropEvent</tt>, and look to see if it supports any <tt>DataFlavors</tt> that your application can support. In this demo, I implemented this with simple <tt>if/else</tt> statements to try the <tt>urlFlavor</tt> and the constant <tt>stringFlavor</tt>. Each block knows what the drop can be cast to, so one block casts to a <tt>URL</tt>, while the other casts to a <tt>String</tt>.</p>
+<p class="docText">When your code is finished handling the drop—successfully or not—you need to call <tt>dropComplete</tt>( ) on the <tt>DropTargetDropEvent</tt>, and pass a <tt>boolean</tt>
+to indicate whether the drop was successful. The host OS can use this
+information to finish animating the drop; for example, by flying the
+drag image back to its source if the drop failed.</p>
+<a name="swinghacks-CHP-9-SECT-3.1"></a>
+<h4 class="docSection2Title">9.3.1. Drag Away</h4>
+<p class="docText">When you run the application, the big drop target is obvious, as seen in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-2">Figure 9-2</a>. In this case, a URL is being dragged from the Shiira web browser on Mac OS X.</p>
+<a name="swinghacks-CHP-9-FIG-2"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-2. Dragging a URL to a Swing component</h5>
+<img alt="" src="untitled_002_001.dat" border="0" height="59" width="288">
+</center><p></p><br>
+<p class="docText">Once you drop a URL on the target, the <a name="idx-CHP-9-1178"></a>dropped URL replaces the text in the <tt>JTextField</tt> (as seen in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-3">Figure 9-3</a>).</p>
+<a name="swinghacks-CHP-9-FIG-3"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-3. Swing component after handling a dropped URL</h5>
+<img alt="" src="untitled_003_001.dat" border="0" height="59" width="288">
+</center><p></p><br>
+
+
+<ul></ul></td></tr></tbody></table></div><!--Preuhs--><p><b>URL</b>&nbsp;<a class="v2" href="http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-3">http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-3</a></p>
+<!--/DOCUMENT_FRAGMENT-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<!--Hack 67. Handle Dropped Images-->
+<cite class="scrapbook-header-invisible">
+	<img src="chrome://scrapbook/skin/treeitem.png" height="16" width="16">
+	<span>Hack 67. Handle Dropped Images</span>
+	<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-4&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0">http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghack...</a>
+</cite>
+<div id="item20050923123255">
+<table cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="left">
+<!--DOCUMENT_FRAGMENT-->
+<div id="section"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h3 class="docSection1Title">Hack 67. Handle Dropped Images</h3>
+<a name="idx-CHP-9-1179"></a>
+<p class="docText"><img alt="" src="untitled_004.dat" align="middle" border="0" height="36" width="14"> <img alt="" src="untitled_001_002.dat" align="middle" border="0" height="36" width="36"></p>
+<p class="docText"><span class="docEmphBold">I spy, with my little <tt>drop( )</tt> method, something that doesn't support <tt>DataFlavor.imageFlavor</tt>…arrrgh</span>!</p>
+<p class="docText"><a name="idx-CHP-9-1180"></a>Handling drag-and-drop from native applications <a class="docLink" href="http://safari.bvdep.com/?xmlid=0596009070/swinghacks-CHP-9-SECT-3#swinghacks-CHP-9-SECT-3"><span class="docEmphBold">[Hack #66]</span></a>
+can be tricky because they're not particularly consistent about how
+they represent the data being transferred to your application. Now,
+let's say you want to accept dropped images—not image files, but actual
+images inside of browser windows, digital photo viewers, word
+processing and page-layout applications, etc. There's a constant in <tt>DataFlavor</tt> for images, so surely you can count on that being a flavor offered to you by the <tt>transferable</tt>, right?</p>
+<p class="docText">No, of course not. That would be too easy.</p>
+<p class="docText">Using the <tt>dumpDataFlavors</tt>( ) strategy of the earlier URL hack, I checked out the <tt>DataFlavors</tt> offered by images dropped from some popular Windows and Mac applications. The results are pretty interesting—check out <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-TABLE-2">Table 9-2</a>.</p>
+<a name="swinghacks-CHP-9-TABLE-2"></a><p><table border="1" cellpadding="4" cellspacing="0" rules="all" width="100%"><caption><h5 class="docTableTitle">Table 9-2. DataFlavor offerings for images on various platforms</h5></caption><colgroup><col><col></colgroup><thead><tr><th class="thead" scope="col"><p class="docText">Application/platform</p></th><th class="thead" scope="col"><p class="docText">DataFlavors</p></th></tr></thead><tbody><tr><td class="docTableCell"><p class="docText">Preview 2.1 / Mac OS X</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">GraphicConverter 4.6 / Mac OS X</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">Finder / Mac OS X</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">Safari 1.3 / Mac OS X</p></td><td class="docTableCell"><p class="docText">55</p></td></tr><tr><td class="docTableCell"><p class="docText">Firefox 1.0 / Mac OS X</p></td><td class="docTableCell"><p class="docText">57</p></td></tr><tr><td class="docTableCell"><p class="docText">QuickTime Player 6.5 / Mac OS X</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">AppleWorks 6.2.9 / Mac OS X</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">MarinerWrite 3.6.4 / Mac OS X</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">iPhoto 4.0.3 / Mac OS X</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">Explorer / Windows XP</p></td><td class="docTableCell"><p class="docText">1</p></td></tr><tr><td class="docTableCell"><p class="docText">MSIE 6.0 / Windows XP</p></td><td class="docTableCell"><p class="docText">27</p></td></tr><tr><td class="docTableCell"><p class="docText">Firefox 1.0 / Windows XP</p></td><td class="docTableCell"><p class="docText">80</p></td></tr><tr><td class="docTableCell"><p class="docText">Paint / Windows XP</p></td><td class="docTableCell"><p class="docText">N/A</p></td></tr><tr><td class="docTableCell"><p class="docText">Windows Picture and Fax Viewer / Windows XP</p></td><td class="docTableCell"><p class="docText">N/A</p></td></tr><tr><td class="docTableCell"><p class="docText">Windows Media Player / Windows XP</p></td><td class="docTableCell"><p class="docText">N/A</p></td></tr><tr><td class="docTableCell"><p class="docText">QuickTime Player 6.5.1 / Windows XP</p></td><td class="docTableCell"><p class="docText">N/A</p></td></tr><tr><td class="docTableCell"><p class="docText">QuickTime Picture Viewer 6.5.1 / Windows XP</p></td><td class="docTableCell"><p class="docText">N/A</p></td></tr></tbody></table></p><br>
+<p class="docText">The first thing you should notice is the poor
+support for dragging and dropping images in Windows: Paint, Picture and
+Fax Viewer, and the Quick-Time applications are not drag sources, and
+dragging an image from the playlist of Windows Media Player to the
+Swing application in this hack actually crashes Java.</p>
+<p class="docText">Furthermore, the supported <tt>DataFlavors</tt> are all over the map. A lot of these provide references to image files in the form of either a <tt>javaFileListFlavor</tt> (as do the Windows and Mac desktops), a list of URIs (the MIME type <tt>text/uri-list</tt>
+defined by RFC 2483 and supported by many of the browsers), or a single
+URL. To top it off, some of the older Mac applications send a single,
+hard-to-handle <tt>DataFlavor</tt> that will require special QuickTime-based handling <a class="docLink" href="http://safari.bvdep.com/?xmlid=0596009070/swinghacks-CHP-9-SECT-5#swinghacks-CHP-9-SECT-5"><span class="docEmphBold">[Hack #68]</span></a>.</p>
+<p class="docText">Thanks to Swing's support for common image types
+like GIF, JPEG, and PNG, a file reference is good enough because you
+can easily make an <tt>ImageIcon</tt> from a URL or filepath to any of these types.</p>
+<a name="swinghacks-CHP-9-SECT-4.1"></a>
+<h4 class="docSection2Title">9.4.1. Grabbing the Drop</h4>
+<p class="docText"><a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-4">Example 9-4</a> shows a basic application that accepts a drop and tries to obtain from the drop (in order of preference):</p>
+<div style="font-weight: bold;"><ol class="docList" type="1"><li><div style="font-weight: normal;"><p class="docList">A <tt>java.awt.Image</tt></p></div></li><li><div style="font-weight: normal;"><p class="docList">A <tt>java.util.List</tt> of <tt>java.io.Files</tt></p></div></li><li><div style="font-weight: normal;"><p class="docList">A <tt>String</tt>, formatted per the <tt>uri-list</tt> spec</p></div></li><li><div style="font-weight: normal;"><p class="docList">A <tt>java.net.URL</tt></p></div></li></ol></div>
+<a name="swinghacks-CHP-9-EXAMPLE-4"></a>
+<h5 class="docExampleTitle">Example 9-4. Handling dropped images from other applications</h5>
+<a name="idx-CHP-9-1181"></a>
+<pre>	public class ImageDropTargetDemo extends JPanel 
+		implements DropTargetListener {
+		DropTarget dropTarget;
+		JLabel dropHereLabel;
+		static DataFlavor urlFlavor, uriListFlavor, macPictStreamFlavor;
+		static {
+
+			try { 
+				urlFlavor = 
+				new DataFlavor ("application/x-java-url; class=java.net.URL"); 
+				uriListFlavor = 
+				new DataFlavor ("text/uri-list; class=java.lang.String");
+			} catch (ClassNotFoundException cnfe) { 
+				cnfe.printStackTrace( );
+			}
+		}
+
+		public ImageDropTargetDemo( )  {
+			super(new BorderLayout( ));
+			dropHereLabel = new JLabel (" Drop here ",
+			
+							SwingConstants.CENTER);    
+			dropHereLabel.setFont (getFont( ).deriveFont (Font.BOLD, 24.0f)); 
+			add (dropHereLabel, BorderLayout.CENTER); 
+			// set up drop target stuff
+			dropTarget = new DropTarget (dropHereLabel, this);
+		}
+		
+		public static void main (String[] args) { 
+			JFrame frame = new JFrame ("Image DropTarget Demo");
+			ImageDropTargetDemo demoPanel = new ImageDropTargetDemo( ); 
+			frame.getContentPane( ).add (demoPanel); 
+			frame.pack( ); frame.setVisible(true);
+		}
+		
+		// drop target listener events
+		
+		public void dragEnter (DropTargetDragEvent dtde) {}
+		
+		public void dragExit (DropTargetEvent dte) {}
+		
+		public void dragOver (DropTargetDragEvent dtde) {}
+		
+		// drop( ) method listed below
+		
+		public void dropActionChanged (DropTargetDragEvent dtde) {}
+		
+		public void showImageInNewFrame (ImageIcon icon) {
+			JFrame frame = new JFrame( );
+			frame.getContentPane( ).add (new JLabel (icon));
+			frame.pack( );
+			frame.setVisible(true);
+		}
+		public void showImageInNewFrame (Image image) {
+			showImageInNewFrame (new ImageIcon (image));
+		}
+
+		private void dumpDataFlavors (Transferable trans) {
+			System.out.println ("Flavors:");
+			DataFlavor[] flavors = trans.getTransferDataFlavors( );
+			for (int i=0; i&lt;flavors.length; i++) {
+				System.out.println ("*** " + i + ": " + flavors[i]);
+			}
+		}
+	}
+</pre><br>
+
+
+<p class="docText">As in "Handle <a name="idx-CHP-9-1182"></a>Dropped URLs" <a class="docLink" href="http://safari.bvdep.com/?xmlid=0596009070/swinghacks-CHP-9-SECT-3#swinghacks-CHP-9-SECT-3"><span class="docEmphBold">[Hack #66]</span></a>, this program uses static initializers to set up two custom <tt>DataFlavors</tt>: one for <tt>URLs</tt> and another for lists of URIs provided as <tt>Strings</tt>. Constants for images (specifically, <tt>java.awt.Images</tt>) and lists of files (<tt>java.util.Lists</tt> of <tt>java.io.Files</tt>)are provided for you by the <tt>DataFlavor</tt> class.</p>
+<p class="docText">You register for drag-and-drop by creating a <tt>DropTarget</tt> with an onscreen component and an implementation of the <tt>DropTargetListener</tt> class. The key to the <tt>DropTargetListener</tt> is to meaningfully implement the <tt>drop</tt>( ) method, taking a <tt>DropTargetDropEvent</tt> and accepting the drop, trying to get the data from the event's <tt>transferable</tt>,
+and reporting back to the event on whether the data was handled
+successfully. To prove that it worked, this application shows the
+dropped image in a new <tt>JFrame</tt>.</p>
+<p class="docText">Of course, the devil is in the details, meaning the <tt>drop</tt>( ) method, which is listed in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-5">Example 9-5</a>.</p>
+<a name="swinghacks-CHP-9-EXAMPLE-5"></a>
+<h5 class="docExampleTitle">Example 9-5. Handling the image drop</h5>
+<a name="idx-CHP-9-1183"></a>
+<pre>	public void drop (DropTargetDropEvent dtde) { 
+		System.out.println ("drop");
+		dtde.acceptDrop (DnDConstants.ACTION_COPY_OR_MOVE);   
+		Transferable trans = dtde.getTransferable( );
+		System.out.println ("Flavors:"); 
+		dumpDataFlavors (trans); boolean gotData = false;
+		try {
+			// try to get an image
+			if (trans.isDataFlavorSupported (DataFlavor.imageFlavor)) { 
+				System.out.println ("image flavor is supported"); 
+				Image img = (Image) trans.getTransferData (DataFlavor.imageFlavor); 
+				showImageInNewFrame (img); 
+				gotData = true;
+			} else if (trans.isDataFlavorSupported (
+				DataFlavor.javaFileListFlavor)) {
+				System.out.println ("javaFileList is supported");
+				java.util.List list = (java.util.List)
+				trans.getTransferData (DataFlavor.javaFileListFlavor);
+				ListIterator it = list.listIterator( );    
+				while (it.hasNext( )) {
+				File f = (File) it.next( );
+				ImageIcon icon = new ImageIcon (f.getAbsolutePath( ));
+				showImageInNewFrame (icon);
+				}
+				gotData = true;
+			} else if (trans.isDataFlavorSupported (uriListFlavor)) {
+				System.out.println ("uri-list flavor is supported"); 
+				String uris = (String)
+				trans.getTransferData (uriListFlavor);
+
+				// url-lists are defined by rfc 2483 as crlf-delimited 
+				StringTokenizer izer = new StringTokenizer (uris, "\r\n");   
+				while (izer.hasMoreTokens ( )) {
+				String uri = izer.nextToken( );
+				System.out.println (uri);
+				<a name="idx-CHP-9-1184"></a>ImageIcon icon = new ImageIcon (uri);
+				showImageInNewFrame (icon);
+				}
+				gotData = true;
+			} <a name="idx-CHP-9-1185"></a>else if (trans.isDataFlavorSupported (urlFlavor)) {
+				System.out.println ("url flavor is supported");
+				URL url = (URL) trans.getTransferData (urlFlavor);
+				System.out.println (url.toString( ));
+				ImageIcon icon = new ImageIcon (url);
+				showImageInNewFrame (icon);
+				gotData = true;
+			}
+		} catch (Exception e) {
+			e.printStackTrace( );
+		} finally {
+			System.out.println ("gotData is " + gotData);
+			dtde.dropComplete (gotData);
+		}
+	}
+</pre><br>
+
+
+<p class="docText"><tt>drop</tt>( ) asks the <tt>transferable</tt> for supported <tt>DataFlavors</tt> in the order you'd prefer to deal with them. First, obviously, is <tt>DataFlavor.imageFlavor</tt>. If this is supported, you can trivially cast the data object returned by <tt>transferable. getTransferData</tt>( ) to an <tt>Image</tt>.</p>
+<p class="docText">The next easiest thing to deal with is the <a name="idx-CHP-9-1186"></a>Java file list, denoted by the MIME type <tt>application/x-java-file-list</tt>, and handled by the <tt>DataFlavor</tt> constant <tt>javaFileListFlavor</tt>. Given Swing's support for various image file formats, you can cast the transfer data to a <tt>java.util.List</tt>, iterate over its members, cast each one to a <tt>File</tt>, and make an <tt>ImageIcon</tt> from each file's path. URLs work pretty much the same way: cast the transfer data to a <tt>java.net.URL</tt> and make an <tt>ImageIcon</tt> from it.</p>
+<p class="docText"><a name="idx-CHP-9-1187"></a>URI lists take just a
+little work on your part. RFC 2483 defines these as being some number
+of URIs, separated by CRLF pairs. It's trivial to take the URI list as
+a string and send it to a <tt>StringTokenizer</tt> to pick out each URI, which can then be passed to the <tt>ImageIcon</tt> constructor.</p>
+
+<a name="swinghacks-CHP-9-SECT-4.2"></a>
+<h4 class="docSection2Title">9.4.2. Shut Up and Drag</h4>
+<p class="docText">Start up the demo and drag over an image from your favorite application, as shown in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-4">Figure 9-4</a>.</p>
+<a name="swinghacks-CHP-9-FIG-4"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-4. Dragging an image from a native application to a Swing component</h5>
+<img alt="" src="untitled_002_002.dat" border="0" height="42" width="137">
+</center><p></p><br>
+<p class="docText">When <a name="idx-CHP-9-1188"></a>dropped, you'll see the image appear in its own <tt>JFrame</tt>.In <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-5">Figure 9-5</a>, I've dragged small images from several different applications, resulting in each being opened in its own frame.</p>
+<a name="swinghacks-CHP-9-FIG-5"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-5. Image dropped from a native application and opened in Swing</h5>
+<a name="idx-CHP-9-1189"></a>
+<img alt="" src="untitled_003_002.dat" border="0" height="204" width="324">
+</center><p></p><br>
+<p class="docText">This <span class="docEmphasis">won't</span> work if you're dragging an image from one of the Mac OS X applications that only supplies one <tt>DataFlavor</tt>. You'll have to deal with <a name="idx-CHP-9-1190"></a>Picts <a class="docLink" href="http://safari.bvdep.com/?xmlid=0596009070/swinghacks-CHP-9-SECT-5#swinghacks-CHP-9-SECT-5"><span class="docEmphBold">[Hack #68]</span></a> in that situation.</p>
+
+
+<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/23041535&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0"><img src="pixel_002.gif" alt="" border="0" height="1" width="1"></a><ul></ul></td></tr></tbody></table></div><!--Preuhs--><p><b>URL</b>&nbsp;<a class="v2" href="http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-4">http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-4</a></p>
+<!--/DOCUMENT_FRAGMENT-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<!--Hack 68. Handling Dropped Picts on Mac OS X-->
+<cite class="scrapbook-header-invisible">
+	<img src="chrome://scrapbook/skin/treeitem.png" height="16" width="16">
+	<span>Hack 68. Handling Dropped Picts on Mac OS X</span>
+	<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-5&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0">http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghack...</a>
+</cite>
+<div id="item20050923123305">
+<table cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="left">
+<!--DOCUMENT_FRAGMENT-->
+<div id="section"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h3 class="docSection1Title" id="459585-931">Hack 68. Handling Dropped Picts on Mac OS X</h3>
+<a name="idx-CHP-9-1191"></a>
+<a name="idx-CHP-9-1192"></a>
+<p class="docText"><img alt="" id="141099131134" src="untitled_005.dat" align="middle" border="0" height="36" width="14"> <img alt="" id="141099131134" src="untitled_001_003.dat" align="middle" border="0" height="36" width="36"></p>
+<p class="docText"><span class="docEmphBold">For Mac applications that provide only the legacy Pict flavor of drops, QuickTime for Java offers a Mac-specific solution</span>.</p>
+<p class="docText">You should already recognize the existence of hard-to-handle DataFlavors <a class="docLink" href="http://safari.bvdep.com/?xmlid=0596009070/swinghacks-CHP-9-SECT-4#swinghacks-CHP-9-SECT-4"><span class="docEmphBold">[Hack #67]</span></a>
+passed by certain Mac applications. Of the Mac apps I tested, several
+old apps (many using the Carbon APIs, which were developed to migrate
+classic Mac apps to OS X) support only one <tt>DataFlavor</tt>. When I drop from GraphicConverter, QuickTime Player, AppleWorks, and MarinerWrite, the only supported <tt>DataFlavor</tt> was reported as:</p>
+<pre>	java.awt.datatransfer.DataFlavor[mimetype=image/x-pict; 
+		representationclass=java.io.InputStream]
+</pre><br>
+
+<p class="docText">For those of you who don't use Macs, Pict is part of <a name="idx-CHP-9-1193"></a>QuickDraw,
+the original Mac graphics API. The term is wildly overloaded—Pict can
+refer to a file format, a resource hidden in an application file, a
+wrapper around vector drawing commands, and as a wrapper around
+optionally compressed pixel data. It's in this latter form that Pict is
+a preferred format for passing image data on the Mac clipboard because <a name="idx-CHP-9-1194"></a>Picts are easy for Mac applications to render and convert (through the QuickDraw library, of course).</p>
+<p class="docText">Unfortunately, Java doesn't know the first thing about <a name="idx-CHP-9-1195"></a>Picts, so it's frustrating to see that Pict is the only supported <tt>DataFlavor</tt>. Worse, the data is supplied as an <tt>InputStream</tt>,
+instead of a file or a URL, meaning you have to handle it in Java,
+instead of handing off to non-Java code that might be able to convert
+the Pict to something that can handle the format more gracefully.</p>
+<p class="docText">Fortunately, there is a Java solution to the problem, and it's called <a name="idx-CHP-9-1196"></a>QuickTime
+for Java (QTJ). This API is a Java wrapper around the native QuickTime
+multimedia API. It's available for Mac OS X and Windows, but since a
+Windows application isn't going to pass you a Pict, you only need to
+worry about the Mac OS X case. One advantage of all this API-wrangling:
+QTJ is installed by default on Mac OS X, so you can count on it being
+there.</p>
+<p><table align="center" bgcolor="black" border="0" cellpadding="1" cellspacing="0" width="90%"><tbody><tr><td><table bgcolor="white" border="0" cellpadding="6" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="60"><img src="pushpin_001.gif" alt="" height="51" width="52"></td><td valign="top">
+<p class="docText">Everything in this hack is Mac-specific. Since Picts
+are only going to be an issue on Mac OS X, don't bother with this on
+programs that you're sure won't need to deal with Mac OS X drops.</p>
+</td></tr></tbody></table></td></tr></tbody></table></p><br>
+<p class="docText">First, you'll need to define a <tt>DataFlavor</tt> for Pict data in Java input streams:</p>
+<pre>	macPictStreamFlavor =
+		new DataFlavor ("image/x-pict; class=java.io.InputStream");
+</pre><br>
+
+<p class="docText">Next, take the code from the hack on <a name="idx-CHP-9-1197"></a>handling standard <a name="idx-CHP-9-1198"></a>dropped images <a class="docLink" href="http://safari.bvdep.com/?xmlid=0596009070/swinghacks-CHP-9-SECT-4#swinghacks-CHP-9-SECT-4"><span class="docEmphBold">[Hack #67]</span></a> and give <tt>drop</tt>( ) a new <tt>else if</tt>( ) {…} block to deal with this flavor. This block will use a <tt>QTJPictHelper</tt>
+class, so you need to make that available (I'll show you this helper
+class soon). Since you don't want to need to have this class at compile
+time—that would make life harder for Windows and Linux users, who might
+not have the <span class="docEmphasis">QTJava.zip</span> file to compile against—this code uses reflection to load the <tt>QTJPictHelper</tt> class and invoke its <tt>pictStreamToJavaImage</tt>( ):</p>
+<pre>	} else if (trans.isDataFlavorSupported (macPictStreamFlavor)) {
+		System.out.println ("mac pict stream flavor is supported");
+		InputStream in =
+			(InputStream) trans.getTransferData (macPictStreamFlavor);
+		// for the benefit of the non-mac crowd, this is 
+		// done with reflection. directly, it would be: 
+		// Image img = QTJPictHelper.pictStreamToJavaImage (in); 
+
+		<a name="idx-CHP-9-1199"></a>Class qtjphClass = Class.forName ("QTJPictHelper");
+
+		Class[] methodParamTypes = { java.io.InputStream.class };
+		Method method =
+			qtjphClass.getDeclaredMethod ("<a name="idx-CHP-9-1200"></a>pictStreamToJavaImage",
+							  methodParamTypes);
+		InputStream[] methodParams = { in };
+		Image img = (Image) method.invoke (null, methodParams);
+		showImageInNewFrame (img);
+		gotData = true;
+	}
+</pre><br>
+
+<p class="docText">OK, now for the fun part: converting the input
+stream from Pict data to a Java image. This code is drawn from
+techniques in the book <span class="docEmphasis"><a name="idx-CHP-9-1201"></a>QuickTime for Java: A Developer's Notebook</span> (O'Reilly), which has a whole chapter on QuickDraw and how to call it from Java. The gist of the technique is to use a <tt>GraphicsImporter</tt>, which handles various types of image data, to read the Pict. From this you can get a <tt><a name="idx-CHP-9-1202"></a>GraphicsImporterDrawer</tt> that allows you to get a <a name="idx-CHP-9-1203"></a><tt>QTImageProducer</tt>, which is an AWT <tt>ImageProducer</tt> and, of course, can produce a normal <tt>java.awt.Image</tt>.</p>
+<p class="docText"><a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-6">Example 9-6</a> shows the <tt>QTJPictHelper</tt> helper class I mentioned earlier. Unlike most examples in the book, this listing includes the <tt>import</tt> statements because the QTJ stuff will be new to most readers.</p>
+<a name="swinghacks-CHP-9-EXAMPLE-6"></a>
+<h5 class="docExampleTitle">Example 9-6. Using QTJ to handle Mac Pict data in a Transferable</h5>
+<pre>	import java.awt.*; 
+	import java.io.*;
+	import quicktime.*; 
+	import quicktime.qd.*; 
+	import quicktime.std.*; 
+	import quicktime.std.image.*; 
+	import quicktime.std.movies.media.*;
+	import quicktime.app.view.*;
+	public class QTJPictHelper extends Object {
+		
+		static Image <a name="idx-CHP-9-1204"></a>pictStreamToJavaImage (InputStream in)
+			throws IOException { 
+			Image image = null;
+			// create a buffer for bytes read from stream 
+			byte[] buffy = new byte [2048]; 
+			// must have empty 512-byte header so GraphicsImporter 
+			// will think it's a file 
+			int off = 512; 
+			int totalRead = 0; 
+			// loop, attempting to read as many bytes as will fit 
+			// in the array, growing array as necessary 
+			int bytesRead = 0;
+			while ((bytesRead = in.read (buffy, off, buffy.length-off)) &gt; -1) {
+
+			totalRead += bytesRead;
+			off += bytesRead;
+			if (off == buffy.length) {
+				// reallocate new array
+				byte[] buffy2 = new byte [buffy.length * 2];
+				System.arraycopy (buffy, 0, buffy2, 0, buffy.length);
+				buffy = buffy2;
+			}
+		}
+		try {
+			// hand it to QTJ GraphicsImporter
+			QTSession.open( );
+			Pict pict = new Pict (buffy);
+			DataRef ref = new DataRef (pict,
+						  StdQTConstants.kDataRefQTFileTypeTag,
+						  "PICT"); 
+			GraphicsImporter gi =
+				new GraphicsImporter (StdQTConstants.kQTFileTypePicture);
+			gi.setDataReference (ref);  
+			QDRect rect = gi.getSourceRect ( );     
+			Dimension dim = new Dimension (rect.getWidth( ),
+						   rect.getHeight( )								GraphicsImporterDrawer gid = 
+				new GraphicsImporterDrawer (gi); 
+			QTImageProducer ip = new QTImageProducer (gid, dim);
+
+			// create AWT image  
+			image = Toolkit.getDefaultToolkit( ).createImage (ip);
+
+		} catch (QTException qte) {
+			qte.printStackTrace( );
+		} finally {
+			QTSession.close( );
+		}
+		return image;
+	}
+}
+</pre><br>
+
+
+<p class="docText">To compile this code, you need the <span class="docEmphasis">QTJava.zip</span> file (yes, QTJ is old enough to pre-date JAR files) in your classpath. On Mac OS X, you'd compile with something like this:</p>
+<pre>	javac -classpath /System/Library/Java/Extensions/QTJava.zip 
+		QTJPictHelper.java
+</pre><br>
+
+<p class="docText">The implicit QTJ hack in this code is that the <tt>GraphicsImporter</tt>
+has to be fooled into believing that a block of memory is actually a
+Pict file as it would appear on disk, and Pict files have a 512-byte
+header that the importer skips over. So, the first thing this code does
+is to build a byte array from the input stream, starting with 512 empty
+bytes.</p>
+<p class="docText">Next is the QTJ stuff. It's OK if you don't totally
+understand it—QTJ code is pretty twisted. That's why there's a whole
+book on it. First, you open a <tt>QTSession</tt>, which initializes QuickTime and allocates resources. You have to do this before any QTJ call. It can throw a <tt>QTException</tt>, as can most other QTJ calls, so the whole thing is wrapped in a <tt>try-catch</tt> block.</p>
+<p class="docText">Next, you create a <tt>Pict</tt> object from the byte array and pass that to <tt>DataRef</tt>, which is a sort of generic media reference. In this case, you pass in flags to tell the <tt>DataRef</tt>
+exactly what it's pointing to. The second and third arguments indicate
+that we're using the old-style Mac OS file type and that its value is <tt>PICT</tt>. You might be wondering why being a <tt>Pict</tt>
+object isn't self-descriptive enough. It's because many QTJ objects are
+just pointers to blocks of memory and the functions that work with
+them. The <tt>DataRef</tt> signature used here takes a <tt>QTHandleRef</tt> as an argument. <tt>QTHandleRef</tt> is subclassed by <tt>Pict</tt>, but it is little more than a pointer; the only level on which the <tt>DataRef</tt> understands the <tt>Pict</tt>, in fact, is as a block of memory. My point here: QTJ code is weird and often C-like.</p>
+<p class="docText">Create a <tt>GraphicsImporter</tt> for the Pict format, and point it to the <tt>DataRef</tt>. You have now read the Pict "file" from memory. Now, you can get the size of the imported image and create a <tt>QTImageProducer</tt>, with help from a <tt><a name="idx-CHP-9-1205"></a>GraphicsImporterDrawer</tt> (a sort of QT-to-Java bridge for still images, also used by QTJ's Swing <tt>JComponents</tt><a name="idx-CHP-9-1206"></a>). Since this is a normal, everyday <tt>ImageProducer</tt>, you can create an image with <tt>Component.createImage</tt>( ) or <tt>Toolkit.createImage</tt>( ).</p>
+<p class="docText">Finally, you need to call <tt>QTSession.close</tt>( ) to deallocate QuickTime resources. It's OK to do it many times in a program, although it's probably more efficient to <tt>open</tt>( ) it once and <tt>close</tt>( ) it once; e.g., in your quit handler or a shut-down hook.</p>
+<a name="swinghacks-CHP-9-SECT-5.1"></a>
+<h4 class="docSection2Title">9.5.1. Take a Breath and Run</h4>
+<p class="docText">The code works exactly as in the previous hack—all you've done is support one more <tt>DataFlavor</tt>. In <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-6">Figure 9-6</a>, I've <a name="idx-CHP-9-1207"></a>dropped two images from QuickTime Player onto the Java app, and both are shown in their own windows.</p>
+<p class="docText">Actually, this is a little more interesting than it
+looks because the larger image isn't a still image; it's the current
+frame of an MPEG-4 movie that I dragged and dropped into the Java app.
+The single frame is transported as a Pict, and using QTJ lets you get
+it into the Java world. This hack only scratches the surface of QTJ's
+potential—if you want to do Java Media on the Mac, you should check out
+<span class="docEmphasis"><a name="idx-CHP-9-1208"></a>QuickTime for Java: A Developer's Notebook</span>, by Chris Adamson (yours truly), published by O'Reilly.</p>
+<a name="swinghacks-CHP-9-FIG-6"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-6. Handling dropped images by supporting Pict format</h5>
+<img alt="" id="141099131134" src="untitled_002_003.dat" border="0" height="261" width="409">
+</center><p></p><br>
+
+
+<ul></ul></td></tr></tbody></table></div><!--Preuhs--><p><b>URL</b>&nbsp;<a class="v2" href="http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-5">http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-5</a></p>
+<!--/DOCUMENT_FRAGMENT-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<!--Hack 69. Translucent Drag-and-Drop-->
+<cite class="scrapbook-header-invisible">
+	<img src="chrome://scrapbook/skin/treeitem.png" height="16" width="16">
+	<span>Hack 69. Translucent Drag-and-Drop</span>
+	<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-6&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0">http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghack...</a>
+</cite>
+<div id="item20050923123316">
+<table cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="left">
+<!--DOCUMENT_FRAGMENT-->
+<div id="section"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h3 class="docSection1Title">Hack 69. Translucent Drag-and-Drop</h3>
+<a name="idx-CHP-9-1209"></a>
+<p class="docText"><img alt="" src="untitled_006.dat" align="middle" border="0" height="36" width="14"> <img alt="" src="untitled_001_004.dat" align="middle" border="0" height="36" width="36"></p>
+<p class="docText"><span class="docEmphBold">The Java implementation of
+drag-and-drop offers poor visual feedback. This hack shows how to
+provide more information and a better-looking response to the user</span>.</p>
+<p class="docText">A good way to create user-friendly interfaces is to
+provide the ability to drag-and-drop almost anything from, within, and
+onto those interfaces. Mac OS X is a perfect example of a good
+drag-and-drop use. Every time I try to drag something to drop it onto
+something else, it just works. AWT, and therefore Swing, let
+applications implement drag-and-drop but lack something Mac OS X
+already offers: really cool visual feedback to let the user know what's
+going on.</p>
+<a name="swinghacks-CHP-9-SECT-6.1"></a>
+<h4 class="docSection2Title">9.6.1. A Rather Boring Cursor</h4>
+<p class="docText">J2SE has offered drag-and-drop facilities since
+version 1.2. All the necessary classes and interfaces can be found in
+the package <tt>java.awt.dnd</tt>. Although not very easy to use at
+first, this package provides powerful features you can use to greatly
+improve the usability of your applications. Unfortunately, the Java
+drag-and-drop framework offers little visual feedback. In fact, the
+only feedback the user can get is a simple mouse cursor. For instance,
+you can show that a drag-and-drop operation is in progress with the
+following line of code:</p>
+<pre>	dropTarget.setCursor(DragSource.DefaultMoveDrop);
+</pre><br>
+
+<p class="docText"><a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-7">Figure 9-7</a> shows what the visual feedback looks like on Windows.</p>
+<a name="swinghacks-CHP-9-FIG-7"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-7. Default drag-and-drop visual feedback on Windows</h5>
+<img alt="" src="untitled_002_004.dat" border="0" height="202" width="374">
+</center><p></p><br>
+<p class="docText">Not only does this look bad, it also conveys very
+little information. Mac OS X users are used to a much richer
+environment, and why should Windows or Linux users expect less? As an
+example of what can be done, Safari—Mac OS X's default web
+browser—shows a <a name="idx-CHP-9-1210"></a>translucent thumbnail of the picture you are dragging. <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-8">Figure 9-8</a> shows what this looks like in action.</p>
+<a name="swinghacks-CHP-9-FIG-8"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-8. Mac OS X provides great looking visual feedback for drag-and-drop</h5>
+<img alt="" src="untitled_003_003.dat" border="0" height="314" width="302">
+</center><p></p><br>
+<p class="docText">The quality of the interaction is greatly enhanced
+by the quantity of information provided by the visual feedback. Another
+example is dragging a link from the web browser to the desktop, where a
+<a name="idx-CHP-9-1211"></a>translucent text box containing the link
+title and the URL is shown. Wouldn't it be great to be able to do the
+same in your application? Thankfully, Swing is perfectly suited for
+that kind of job.</p>
+
+<a name="swinghacks-CHP-9-SECT-6.2"></a>
+<h4 class="docSection2Title">9.6.2. Translucence Rocks</h4>
+<p class="docText">Implementing a stylish drag-and-drop requires being able to draw a <a name="idx-CHP-9-1212"></a>translucent
+picture over any component. Every Swing frame contains several layers
+on which components are painted. These layers serve many purposes,
+among which is the drawing of pop-up menus over the regular components.
+The higher-level layer is called the glass pane. A glass pane is a
+transparent container you can use to draw over the entire UI, as seen
+in the hack that turned dialogs into frame-anchored "sheets" <a class="docLink" href="http://safari.bvdep.com/?xmlid=0596009070/swinghacks-CHP-6-SECT-5#swinghacks-CHP-6-SECT-5"><span class="docEmphBold">[Hack #44]</span></a>. You will use it to display translucent pictures during a drag-and-drop operation, as seen in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-9">Figure 9-9</a>.</p>
+<a name="swinghacks-CHP-9-FIG-9"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-9. A translucent picture as visual feedback for drag-and-drop</h5>
+<img alt="" src="untitled_004_001.dat" border="0" height="283" width="440">
+</center><p></p><br>
+<p class="docText">Yet, translucent pictures do not cover all the needs
+of effective drag-and-drop visual feedback. When the user drops a file
+on your application, you can use a picture to indicate what the type of
+the file is. However, what picture will you use when the user wants to
+drag a text box into another box, and expect the contents of the first
+box to be copied to the second? The best solution is simply to display
+a <a name="idx-CHP-9-1213"></a>translucent copy of the component itself, referred to as a <span class="docEmphasis">ghost</span> in the code. <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-FIG-10">Figure 9-10</a> shows a ghost in mid-drag.</p>
+<a name="swinghacks-CHP-9-FIG-10"></a><p></p><center>
+<h5 class="docFigureTitle">Figure 9-10. A ghost is a translucent copy of a Swing component</h5>
+<a name="idx-CHP-9-1214"></a>
+<img alt="" src="untitled_005_001.dat" border="0" height="305" width="418">
+</center><p></p><br>
+<p class="docText">This time, you will not use the package <tt>java.awt.dnd</tt>;
+you'll need your own framework for this level of sophistication. By
+breaking out of the pre-built box, you gain full control of
+drag-and-drop.</p>
+
+<a name="swinghacks-CHP-9-SECT-6.3"></a>
+<h4 class="docSection2Title">9.6.3. Drawing a Ghost</h4>
+<p class="docText">The very first thing you need is a glass pane able
+to draw a translucent picture over the UI. A glass pane is nothing more
+than a transparent <tt>JPanel</tt>. The code of <tt>GhostGlassPane</tt> is very simple, as shown in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-7">Example 9-7</a>.</p>
+<a name="swinghacks-CHP-9-EXAMPLE-7"></a>
+<h5 class="docExampleTitle">Example 9-7. Creating a glass pane for ghosting</h5>
+<a name="idx-CHP-9-1215"></a>
+<pre>	import java.awt.*; 
+	import java.awt.image.*; 
+	import javax.swing.*;
+	public class GhostGlassPane extends JPanel
+	{
+		private AlphaComposite composite;
+		private BufferedImage dragged = null;
+		private Point location = new Point(0, 0);
+
+		public GhostGlassPane( )
+		{
+			setOpaque(false);
+			composite = AlphaComposite.getInstance(AlphaComposite.SRC_OVER, 0.5f); 
+		}
+		
+		public void setImage(BufferedImage dragged)
+		{
+			this.dragged = dragged;
+		}
+
+		public void setPoint(Point location)
+		{
+			this.location = location;
+		}
+
+		public void paintComponent(Graphics g)
+		{
+			if (dragged == null)
+				return;
+
+			Graphics2D g2 = (Graphics2D) g;
+			g2.setComposite(composite);
+			g2.drawImage(dragged,
+				(int) (location.getX( ) - (dragged.getWidth(this)  / 2)),
+				(int) (location.getY( ) - (dragged.getHeight(this) / 2)),
+				null);
+			}
+		}
+</pre><br>
+
+
+<p class="docText">This glass pane has two properties: the picture to be displayed and its location. To make the picture <a name="idx-CHP-9-1216"></a>translucent, use an <tt>AlphaComposite</tt>
+instance. Besides colors, strokes, and painters, Java2D drawings can be
+affected by composites that define how the newly drawn pixels are mixed
+with the underlying pixels. In this case, you want the new pixels—i.e.,
+the picture— to be drawn at 50% of their initial opacity. You can
+change the second parameter of <tt>getInstance</tt>( ) to choose the opacity. The valid value range is from a totally opaque <tt>0.0</tt> to a totally transparent <tt>1.0</tt>. An <tt>AlphaComposite</tt>
+can be used to define how the alpha channels of the source (the pixels
+being drawn), and the target (the existing pixels) are mixed together.
+You can select the mixing mode with the first parameter of <tt>getInstance</tt>( ) and refer to the documentation of <tt>AlphaComposite</tt> to get a comprehensive list of possible modes. It turns out that the <tt>AlphaComposite.SRC_OVER</tt> composite gives the best result for our job.</p>
+<p class="docText">The only job of the <a name="idx-CHP-9-1217"></a><tt>paintComponent</tt>( ) will be to draw the dragged picture. Therefore, there is no need to call <tt>super.paintComponent</tt>( ), as it will perform unnecessary operations.</p>
+<p><table align="center" bgcolor="black" border="0" cellpadding="1" cellspacing="0" width="90%"><tbody><tr><td><table bgcolor="white" border="0" cellpadding="6" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="60"><img src="screw.gif" alt="" height="50" width="52"></td><td valign="top">
+<p class="docText">Do not forget to set the composite in this method, or you might draw the picture fully opaque.</p>
+</td></tr></tbody></table></td></tr></tbody></table></p><br>
+<p class="docText">The center of the picture is painted at the location specified in <tt>setLocation</tt>(
+). This means assuming the location given is the location of the mouse
+cursor. Now, you've got a fully functional glass pane, and you just
+need to add it to a Swing frame:</p>
+<pre>	glassPane = new GhostGlassPane( );
+	setGlassPane(glassPane);
+</pre><br>
+
+<p class="docText">Also, do not forget that a glass pane is not visible by default: you will have to call <tt>setVisible(true)</tt> when a <a name="idx-CHP-9-1218"></a>drag-and-drop
+operation is initiated. The final step is the activation of
+drag-and-drop on components requiring it. You can use a picture as
+drag-and-drop feedback:</p>
+<pre>	JLabel label = new JLabel("New Sale");
+	GhostDropAdapter pictureAdapter;
+	pictureAdapter = new <a name="idx-CHP-9-1219"></a>GhostPictureAdapter(glassPane,
+								"new_sale",
+								"images/new_sale.png")
+	label.addMouseListener(pictureAdapter);
+	label.addMouseMotionListener(new GhostMotionAdapter(glassPane));
+</pre><br>
+
+<p class="docText">You can also use a ghost feedback:</p>
+<pre>	JButton button = new JButton("Ghost Feedback"));
+	GhostDropAdapter componentAdapter;
+	componentAdapter = new GhostComponentAdapter(glassPane, "button_pushed");
+	button.addMouseListener(componentAdapter);
+	button.addMouseMotionListener(new GhostMotionAdapter(glassPane));
+</pre><br>
+
+<p class="docText">Whatever choice you make, you need two adapters to perform drag-and-drop. The first one is an adapter for the <tt>MouseListener</tt> interface. It can be either a <tt>GhostPictureAdapter</tt>, to handle pictures, or a <tt>GhostComponentAdapter</tt>,
+to handle a component ghost. The role of this adapter is to handle the
+beginning and the end of a drag-and-drop gesture. When a drop action is
+performed, an event is fired to every <tt>GhostDropListener</tt> registered by the adapter. The code in <a class="docLink" href="http://safari.bvdep.com/#swinghacks-CHP-9-EXAMPLE-8">Example 9-8</a> shows how <tt>GhostComponentAdapter</tt> works. The code of <tt>GhostPictureAdapter</tt> is almost the same, and it's left to you to check out (all the code for this book is online; visit <a class="docLink" target="_top" href="http://www.oreilly.com/catalog/swinghks">http://www.oreilly.com/catalog/swinghks</a>).</p>
+<a name="swinghacks-CHP-9-EXAMPLE-8"></a>
+<h5 class="docExampleTitle">Example 9-8. Handling component ghosts</h5>
+<pre>	import java.awt.*; 
+	import java.awt.event.*;
+	import java.awt.image.*; 
+	import javax.swing.*;
+
+	public class GhostComponentAdapter extends GhostDropAdapter
+	{
+		public GhostComponentAdapter(GhostGlassPane glassPane, String action) { 
+			super(glassPane, action); 
+		}
+
+		public void mousePressed(MouseEvent e)
+		{
+			Component c = e.getComponent( );
+
+			BufferedImage image = new BufferedImage(c.getWidth( ),
+										c.getHeight( ), 
+										BufferedImage.TYPE_INT_ARGB);
+			Graphics g = image.getGraphics( );
+			c.paint(g);
+			
+			glassPane.setVisible(true);
+
+			Point p = (Point) e.getPoint( ).clone( );
+			SwingUtilities.convertPointToScreen(p, c);
+			SwingUtilities.convertPointFromScreen(p, glassPane);
+
+			glassPane.setPoint(p);
+			glassPane.setImage(image);
+			glassPane.repaint( );
+
+		}
+		public void mouseReleased(MouseEvent e)
+		{
+			Component c = e.getComponent( );
+
+			Point p = (Point) e.getPoint( ).clone( );
+			SwingUtilities.convertPointToScreen(p, c);
+
+			Point eventPoint = (Point) p.clone( );
+			SwingUtilities.convertPointFromScreen(p, glassPane);
+
+			glassPane.setPoint(p);
+			glassPane.setVisible(false);
+			glassPane.setImage(null);
+
+			fireGhostDropEvent(new GhostDropEvent(action, eventPoint)); 
+		}
+	}
+</pre><br>
+
+
+<p class="docText">When a mouse-press event is fired by the
+drag-and-drop source, a new off-screen picture is created. This picture
+has the exact same dimensions as the source component itself. Then the
+component is asked to paint itself on the <tt>Graphics</tt> surface of the picture. The code obtains a ghost—a copy of the component—which is passed to the glass pane.</p>
+<p class="docText">You might wonder why the <tt>SwingUtilities</tt>
+class is used. Since the code listens to the events fired by a
+component, the mouse location it receives is bound to the component's
+coordinate system. For instance, when the mouse is pressed with the
+cursor at the top-left corner of the component, the location is <tt>0,0</tt>.
+Unfortunately, you cannot use this location with the glass pane. As the
+pane covers the whole frame, you need to translate the location from
+the component's coordinate system to the glass pane's coordinate
+system. There is no way to achieve this in one step, which is why the
+code first translates the location to the screen coordinates and then
+to the glass pane coordinates. The glass pane can then safely paint the
+picture at the given location.</p>
+<p class="docText">The second adapter required for performing a full drag-and-drop operation is an adapter for the <tt>MouseMotionListener</tt>
+interface. The framework needs it to change the location of the
+picture, or the ghost, when the mouse moves over the window. The code
+is pretty simple:</p>
+<pre>	public void mouseDragged(MouseEvent e)
+	{
+		Component c = e.getComponent( );
+		Point p = (Point) e.getPoint( ).clone( );
+		SwingUtilities.convertPointToScreen(p, c);
+		SwingUtilities.convertPointFromScreen(p, glassPane);
+		glassPane.setPoint(p);
+		glassPane.repaint( );
+	}
+</pre><br>
+
+<p class="docText">As before, you need to convert the location of the
+mouse event into the right coordinate system. Once you get a valid
+location, the pane is repainted. The full source code of this hack is
+available in this book's downloadable source code. The only part of the
+drag-and-drop framework you have not seen is the <tt>GhostDropListener</tt> and its <tt>GhostDropEvent</tt>.
+Both are very easy to understand when you remember that the drop
+location given by the event is expressed in screen coordinates.
+Therefore, you must translate it into the target component's
+coordinates if you need to perform some checks. The complete example
+provides an <tt>AbstractGhostDropManager</tt> that implements <tt>GhostDropListener</tt> to provide two methods to handle drag-and-drop targets more easily.</p>
+<p class="docText">—<span class="docEmphasis">Romain Guy</span></p>
+
+
+<a href="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/23041535&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0"><img src="pixel_003.gif" alt="" border="0" height="1" width="1"></a><ul></ul></td></tr></tbody></table></div><!--Preuhs--><p><b>URL</b>&nbsp;<a aiotitle="http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-6" class="v2" href="http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-6">http://safari.bvdep.com/0596009070/swinghacks-CHP-9-SECT-6</a></p>
+<!--/DOCUMENT_FRAGMENT-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</body>
+</html>

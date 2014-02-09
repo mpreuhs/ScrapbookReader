@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NS1="http://amb.vis.ne.jp/mozilla/scrapbook-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:scrapbook:item20050908022942"
+                   NS1:id="20050908022942"
+                   NS1:type=""
+                   NS1:title="Table of Contents"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=toc&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923131444">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202748"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923131444"
+                   NS1:id="20060923131444"
+                   NS1:type="folder"
+                   NS1:title="Articles"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Seq RDF:about="urn:scrapbook:root">
+    <RDF:li RDF:resource="urn:scrapbook:item20060923131432"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923132326"
+                   NS1:id="20060923132326"
+                   NS1:type=""
+                   NS1:chars="UTF-8"
+                   NS1:source="http://www.oreilly.com/catalog/swinghks/#top"
+                   NS1:icon="resource://scrapbook/data/20060923132326/favicon.ico"
+                   NS1:title="Chris Adamson, Joshua Marinacci: Swing Hacks - Tips and Tools for Killer GUIs (O'Reilly)"
+                   NS1:comment="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123352"
+                   NS1:id="20050923123352"
+                   NS1:type="combine"
+                   NS1:title="Chapter 9. Drag-and-Drop"
+                   NS1:chars="UTF-8"
+                   NS1:icon=""
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0"
+                   NS1:comment="" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923131432">
+    <RDF:li RDF:resource="urn:scrapbook:item20060923132326"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050908022942"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123352"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923131444"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923131432"
+                   NS1:id="20060923131432"
+                   NS1:type="folder"
+                   NS1:title="Chris Adamson, Joshua Marinacci: Swing Hacks"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202748"
+                   NS1:id="20050914202748"
+                   NS1:type=""
+                   NS1:title="Joshua Marinacci: Hacking Swing with Undocumented Classes and Properties"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="resource://scrapbook/data/20050914202748/favicon.ico"
+                   NS1:source="http://www.onjava.com/lpt/a/6095" />
+</RDF:RDF>

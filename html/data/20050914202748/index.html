@@ -1,0 +1,356 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ONJava.com: Hacking Swing with Undocumented Classes and Properties</title>
+		
+        
+<meta name="GOOGLEBOT" content="NOARCHIVE">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<link rel="stylesheet" type="text/css" href="index.css" media="all">
+</head>
+<body bgcolor="#ffffff" text="#000000">
+
+
+<a href="http://www.onjava.com/">
+
+<img src="onjava_logo.jpg" alt="ONJava.com" align="left" border="0" height="82" width="294"></a>
+
+<dummy>&nbsp;&nbsp;&nbsp;</dummy>
+
+<br clear="all">
+
+&nbsp;<font face="verdana,arial,helvetica" size="1">Published on <b>
+
+<a href="http://www.onjava.com/">ONJava.com</a></b> (<a href="http://www.onjava.com/">http://www.onjava.com/</a>)<br>
+
+ <!--  ---------- End of PERL ---------------------  -->
+
+
+&nbsp;http://www.onjava.com/pub/a/onjava/2005/08/10/swinghacks.html<br>
+&nbsp;<a href="http://www.onjava.com/pub/a/general/print_code.html">See this</a> if you're having trouble printing code examples</font><br><br clear="all">
+
+<!-- CS_PAGE_BREAK -->
+<h2>
+Hacking Swing with Undocumented Classes and Properties</h2>
+by <a href="http://www.onjava.com/pub/au/2200">Joshua Marinacci</a>, coauthor of 
+<a href="http://www.oreilly.com/catalog/swinghks/">Swing Hacks</a><br>
+08/10/2005
+<!--  sidebar begins  -->
+<!--  don't move sidebars  -->
+<!--  sidebar ends  -->
+
+<p>Swing is a powerful toolkit for building desktop applications, but
+quite often Swing gets a bad reputation for sins of the past. Many
+times, I've heard, "Swing is slow," "Swing is ugly," and "Swing is too
+hard." A lot has changed in the almost ten years since Swing was first
+designed. Chris Adamson and I wrote <a href="http://www.oreilly.com/catalog/swinghks/">Swing Hacks</a> to show that you can make fast, attractive, and usable applications quite easily. You just need to know a few tricks.</p>
+
+<p>
+This article will show you six undocumented features, classes, and
+properties that let you hack into Swing. I've based the article on
+hacks that didn't make it into <i>Swing Hacks</i>
+for one reason or another. Some of them were too short to be full hacks
+on their own. Some didn't fit nicely into a particular chapter. Some
+are new things I've learned since publishing the book (technology
+stands still for no one). Fortunately, the internet provides a way to
+keep up with the latest developments. As always, please remember that
+undocumented features are JVM-platform-and-version-dependent. They
+could disappear in a new version, so use them carefully and always have
+backup behavior ready.</p>
+
+<h3>Hide a Frame from the Windows Task Bar</h3>
+<!--  sidebar begins  -->
+<table style="border: 1px solid rgb(51, 51, 51); margin: 8px;" align="right" border="1" cellpadding="10" cellspacing="2" width="140"><tbody><tr>
+<td style="border: medium none ;" bgcolor="#ffffff" valign="top" width="140">
+<p class="headline">Related Reading</p>
+
+<a href="http://www.oreilly.com/catalog/swinghks/index.html?CMP=ILL-4GV796923290"><img src="swinghks.s.gif" alt="Swing Hacks" border="0"></a>
+<p class="medlist"><span class="title"><a href="http://www.oreilly.com/catalog/swinghks/index.html?CMP=ILL-4GV796923290">Swing Hacks</a></span><strong><br>
+
+Tips and Tools for Killer GUIs<br>
+
+By <a href="http://www.oreillynet.com/cs/catalog/view/au/2200?x-t=book.view&amp;CMP=IL7015">Joshua&nbsp;Marinacci</a>, <a href="http://www.oreillynet.com/cs/catalog/view/au/1045?x-t=book.view&amp;CMP=IL7015">Chris&nbsp;Adamson</a></strong>
+</p>
+<div class="secondary">
+<!--  builds links to list in sidebar  -->
+ <a href="http://www.oreilly.com/catalog/swinghks/toc.html?CMP=ILL-4GV796923290">Table of Contents</a><br> 
+  <a href="http://www.oreilly.com/catalog/swinghks/inx.html?CMP=ILL-4GV796923290">Index</a><br> 
+ 
+
+
+
+
+<br><b><a href="http://safari.oreilly.com/0596009070">Read Online--Safari</a></b>
+<span class="tiny">Search this book on Safari:</span>
+<form action="http://safari.oreilly.com/JVXSL.asp" method="post">
+<input name="s" value="1" type="hidden"><input name="b" value="1" type="hidden">
+<input name="t" value="1" type="hidden"><input name="f" value="1" type="hidden">
+<input name="c" value="1" type="hidden"><input name="l" value="1" type="hidden">
+<input name="view" value="section" type="hidden">
+<input tabindex="1" name="se_text" value="" size="15" type="text"><img title="Maximale Zeichenanzahl im Feld ist unbekannt" style="border: 0pt none ; width: 14px; height: 19px;" class="ife_marker" src="chrome://informenter/skin/marker.png" id="se_text_ife_marker_1" align="middle">&nbsp;<input name="go" title="Execute the search" src="safari_btn_go.gif" alt="Go" align="center" border="0" height="17" type="image" width="23"><br>
+<select name="se_isbn"><option value="0-596-00907-0">Only This Book</option><option value="">All of Safari</option></select><br>
+<input name="code" value="1" type="checkbox"><span class="tiny">Code Fragments only</span>
+</form>						  
+
+</div>
+</td>
+</tr></tbody></table>
+<!--  sidebar ends  -->
+<p>
+Every frame will show up in the Windows task bar with its own icon. If you are
+using Windows XP, then the application icons may collapse together, but they are
+still there. However, if you subclass <code>java.awt.Window</code> instead of <code>java.awt.Frame</code>,
+then your window will not show up in the taskbar or the <code>Alt</code>-<code>Tab</code> hotswitcher.
+This is because the window won't be registered as a full "application window"
+that the operating system treats with special care. Instead, the window will be
+more like a dialog box. 
+</p>
+
+<p>
+The disadvantage of directly subclassing <code>Window</code> is
+that
+you won't get any window decorations. The title bar and maximize,
+minimize, and
+resize buttons will be missing. Even the border will be gone. However,
+depending
+on your use, this might not be a problem. Toolbar palettes, for
+example, are
+fine without borders and should properly be hidden from the taskbar.
+Also, the recent trend towards mini-application development (Tiger
+Dashboard, Yahoo Widgets) suggest that the lack of a title bar won't be
+a problem.
+</p>
+
+<h3>Make Mac OS X Windows Transparent (For Real)</h3>
+
+<p>Mac OS X has a graphics API called Quartz that makes it very easy to
+create translucency effects. This API isn't directly accessible from
+Java, but Apple's developers did provide a really nice feature that
+uses Quartz. If you make the background of your frame partially
+transparent, the desktop and other applications will show through. For
+example, if you had a frame with a few buttons on it, you could call
+this right before you set the frame:
+</p>
+
+<pre><code>frame.setBackground(new Color(0, 0, 0, 0));</code></pre>
+
+<p>This will make the background of the frame completely transparent,
+allowing other programs to shine through the gaps between the buttons.
+This line will make the background be red with 50 percent translucency,
+so the background will be partially visible and tinted through the
+frame.
+</p>
+
+<pre><code>frame.setBackground(new Color(1, 0, 0, 0.5f));</code></pre>
+
+<p>The background setting only affects the frame itself, not the
+components of the frame. If you want those to be transparent, you will
+need to set their background colors individually. You could also use
+this effect to create a rounded window by using a PNG image with
+transparent sections as the background of your main panel. Then the
+background would shine through the transparent sections, creating the
+illusion of a shaped window.
+</p>
+
+<h3>Bounce the Mac OS X Dock Icon</h3>
+
+<p>Mac OS X introduced a new form of alert: bouncing the dock icon.
+This is the icon on the bottom of the screen (depending on your setup)
+that represents your application. You can make this icon bounce when
+you wish to alert the user. A single bounce represents a simple
+notification, such as the arrival of new mail. A continuous bounce
+represents a serious request for the user's attention (a failed disk
+write would fall into this category). Since this is a Mac-specific
+feature, there is no standard API for it, and Apple chose not to add it
+to their official API. However, there is an undocumented class that can
+do the job.
+</p>
+
+<p>Apple has wrapped all of their Cocoa APIs with Java classes. These
+classes have virtually no documentation, but by referring to the Cocoa
+APIs they came from, you can usually figure them out. The <code>com.apple.cocoa.application</code> package contains an <code>NSApplication</code> object that has lots of useful methods. In particular, you want the <code>requestUserAttention()</code> method, which will make the dock icon bounce.
+</p>
+
+<pre><code>
+import com.apple.cocoa.application.*;
+// ... 
+public void bounceDock() {
+	NSApplication app = NSApplication.sharedApplication();
+	int id = app.requestUserAttention(
+				NSApplication.UserAttentionRequestCritical);
+}
+// ...
+</code></pre>
+
+<p>
+<code>NSApplication</code> has a static method to get the singleton that represents the application. You can then call the <code>requestUserAttention()</code> method with the constant <code>NSApplication.UserAttentionRequestCritical</code> to make the dock bounce continuously. You can use other constants for other behaviors.  The return value can be passed to the <code>cancelUserAttentionRequest()</code> method to cancel the alert once the user has responded. Be sure to add the <em>/System/Library/Java/</em> directory to your classpath when compiling, so that <code>javac</code> will find the Cocoa wrapper classes.
+</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><p class="secondary">
+<!-- CS_PAGE_INDEX -->
+</p></td><td><p class="secondary" align="right">
+<a href="http://www.onjava.com/lpt/a/%3C%21--CS_NEXT_REF--%3E">
+ </a></p></td></tr></tbody></table>
+
+
+
+<!-- CS_PAGE_BREAK -->
+
+<p>
+
+
+
+
+<!-- CS_PAGE_INDEX -->
+</p>
+
+<h3>Get Large File Icons</h3>
+
+<p>
+Not to leave Windows lonely, here is an undocumented class that will let you
+obtain large desktop icons and other file information. The <code>FileSystemView</code> only
+provides access to file icons of a "default" size, which usually means 16 by 16
+pixels. If you look at your operating system desktop, however, you may see icons
+that are much bigger, with more detail. There is no standardized way of getting
+to the larger icons, but on Windows you can use the hidden class called
+<code>sun.awt.shell.ShellFolder</code> to retrieve larger (32 by 32) desktop file icons. This
+class is only available in Sun's JVM, so it won't work with other vendors, or on
+other platforms.
+</p>
+
+<p>
+The code below will take a filename and show the file's large icon in a window.
+</p>
+
+<pre><code>
+public class LargeIconTest {
+
+    public static void main(String[] args) throws Exception {
+        // Create a File instance of an existing file
+        File file = new File(args[0]);
+        
+        // Get metadata and create an icon
+        sun.awt.shell.ShellFolder sf =
+                sun.awt.shell.ShellFolder.getShellFolder(file);
+        Icon icon = new ImageIcon(sf.getIcon(true));
+        System.out.println("type = " + sf.getFolderType());
+    
+        // show the icon
+        JLabel label = new JLabel(icon);
+        JFrame frame = new JFrame();
+        frame.getContentPane().add(label);
+        frame.pack();
+        frame.show();
+    
+    }
+}
+</code></pre>
+
+<p><code>ShellFolder</code> is a wrapper for the metadata of the selected file. From
+this object, you can retrieve both the icon and a text description of the file's
+type. If you run this on an MP3 file, it might print the string <code>"type =
+MPEG Layer 3 Audio"</code> and show a 32 by 32 pixel iTunes MP3 icon. </p>
+
+
+<h3>Change the Look and Feel of an App from the Command Line</h3>
+
+<p>Sometimes, Swing applications don't provide a way to change a look
+and feel at runtime. When using an application like this, you can
+override the default look and feel with your own setting from the
+command line using the <code>swing.defaultlaf</code> property.
+</p>
+
+<pre><code>java -Dswing.defaultlaf=com.sun.java.swing.plaf.windows.WindowsLookAndFeel 
+   myapp.MainClass</code></pre>
+
+<p>You can also use this technique to apply a new look and feel that the original developer never thought of.
+</p>
+
+<h3>Hacks for the Metal Look and Feel</h3>
+
+<p>There are a variety of undocumented properties that control the look of
+Metal, Swing's cross-platform look and feel. JTree nodes can have lines
+connecting children to their parent, but depending on your current setup, the
+lines may or may not be showing. You can control the lines with a client
+property called <code>JTree.lineStyle</code>. Add this code after you create
+your JTree. </p>
+
+<pre><code>// show the lines in a JTree
+tree.putClientProperty("JTree.lineStyle", "Angled");
+// hide the lines in a jtree
+tree.putClientProperty("JTree.lineStyle", "None");</code></pre>
+
+<p>One of the big complaints about Metal is that the menus and labels
+use bold fonts. With another quick undocumented system property, you
+can turn that off.
+</p>
+
+<pre><code>java -Dswing.boldMetal=false myapp.MainClass</code></pre>
+<p>You can also turn on the rollover for <code>JToolBar</code> buttons
+by using a secret property. A rollover is useful because it gives the
+user visual feedback that the mouse cursor is over the right place.
+Given the size of the typical toolbar button, this feedback is
+essential.</p>
+
+<pre><code>toolbar.putClientProperty("JToolBar.isRollover",Boolean.TRUE);</code></pre>
+
+<p>
+There is a longer (though, by no means comprehensive) list of properties on <a href="http://wiki.java.net/bin/view/Javadesktop/SecretSwingProperties">this wiki page</a>.
+Swing, and Metal in particular, has lots of undocumented system
+properties. As you discover them, please add your own comments to the
+wiki page. Also remember that these are undocumented for a reason, and
+could easily change or go away in the future. Use them at your own risk.</p>
+
+<h3>Conclusion</h3>
+
+<p>Swing is a powerful toolkit with lots of hidden features that you
+can use to bring out the best in your application. This article
+documents just a few interesting techniques. <a href="http://www.oreilly.com/catalog/swinghks/">Swing Hacks</a>
+from O'Reilly covers another 100 hacks to improve your software. None
+of the techniques I've shown are required features, but they can add a
+level of polish that will make your apps stand out from the rest. And
+in a crowded software marketplace, anything that makes your program
+better than the competition is a good thing.</p>
+
+<hr noshade="noshade" size="1">
+
+<p>
+In June 2005, O'Reilly Media, Inc., released <a href="http://www.oreilly.com/catalog/swinghks/">Swing Hacks</a>.
+</p>
+
+<ul>
+<li><p>
+<a href="http://www.oreilly.com/catalog/swinghks/chapter/index.html">Sample hacks</a> are available 
+free online. 
+</p></li>
+
+<li><p>
+You can also look at the <a href="http://www.oreilly.com/catalog/swinghks/toc.html">Table of Contents</a>, the 
+<a href="http://www.oreilly.com/catalog/swinghks/inx.html">Index</a>, and the <a href="http://www.oreilly.com/catalog/swinghks/desc.html">full description</a> of 
+the book.
+</p></li>
+
+<li><p>
+For more information, or to order the book, 
+<a href="http://www.oreilly.com/catalog/swinghks/">click here</a>.</p></li>  
+</ul>
+
+<p><i>
+<a href="http://www.onjava.com/pub/au/2200">Joshua Marinacci</a> 
+is the author of  "The Java Sketchbook" column for java.net, covering topics in Java client-side and web development.
+
+</i></p>
+
+<hr noshade="noshade" size="1">
+
+<p>Return to <a href="http://www.onjava.com/">ONJava.com</a>.</p>
+
+
+<p><font face="verdana,arial,helvetica" size="1">Copyright © 2005 O'Reilly Media, Inc.</font></p>
+
+ <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+        <!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com / privacy-->
+        <!--//-->  
+        <!-- END WEBSIDESTORY CODE  -->
+ </body>
+</html>

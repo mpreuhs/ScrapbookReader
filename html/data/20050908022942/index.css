@@ -1,0 +1,246 @@
+
+/* ::::: http://safari.bvdep.com/portals/bvdep/xsltemplates/style.css ::::: */
+
+.safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+.aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+.aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+.aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+.aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+.aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+.aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+.aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+.aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+.aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+.a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+.a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+.a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+.a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+.a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+.a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+.a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+.a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+.a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+.a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+.AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+.bg { background-color: rgb(255, 255, 255); }
+body { background-color: white; color: black; }
+.DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+.DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+.dlg { background-color: rgb(255, 255, 204); }
+.PricesMax { background-color: rgb(231, 159, 88); }
+.PricesMaxOutline { background-color: rgb(204, 102, 0); }
+.PricesBasic { background-color: rgb(238, 232, 233); }
+.PricesBasicOutline { background-color: rgb(153, 153, 153); }
+.entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+.FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+.FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+.FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+.GroupNotesBorder { background-color: rgb(208, 199, 222); }
+.GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+.GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+.GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+.hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+.hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+.ListByCatBorder { background-color: rgb(208, 199, 220); }
+.ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+.ListByCatOddRows { background-color: rgb(241, 239, 245); }
+.ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+.logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+.logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+.menuborder { background-color: rgb(220, 220, 235); }
+.menuLeft { background-color: rgb(253, 226, 119); }
+.menuRight { background-color: rgb(253, 226, 119); }
+.menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+.menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+.MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+.MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+.MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+.MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+.MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+.MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+.MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+.MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+.MyTokensBorder { background-color: rgb(208, 199, 220); }
+.MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+.MyTokensOddRows { background-color: rgb(241, 239, 245); }
+.MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+.MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+.MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+.MyBookshelfEvenRows {  }
+.MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+.MyBookshelfTableHeading {  }
+.MyNotesBorder { background-color: rgb(208, 199, 220); }
+.MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+.MyNotesOddRows { background-color: rgb(241, 239, 245); }
+.MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+.MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+.MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+.MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+.MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+.MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+.MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+.MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+.MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+.n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+.navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+.navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+.navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+.navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+.NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+.NewThisWeekEvenRows {  }
+.NewThisWeekOddRows {  }
+.NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+.PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+.PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+.printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+.PublicNotesBorder { background-color: rgb(208, 199, 222); }
+.PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+.PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+.PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+.RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+.RecommendedTitlesEvenRows {  }
+.RecommendedTitlesOddRows {  }
+.RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+.SearchResultBorder { background-color: rgb(208, 199, 222); }
+.SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+.SearchResultOddRows { background-color: rgb(241, 239, 245); }
+.SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+.SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+.SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+.SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+.SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+.t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+.t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+.t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+.t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+.t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+.tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+.TextFrame { background-color: rgb(209, 200, 161); }
+.toc { background-color: rgb(255, 255, 193); }
+.Top5Border { background-color: rgb(208, 199, 222); }
+.Top5EvenRows {  }
+.Top5OddRows {  }
+.Top5TableHeading { background-color: rgb(221, 217, 231); }
+.toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+.topmenu { background-color: rgb(143, 15, 15); }
+.v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+.v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+.v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+.v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+.v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+.v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+.v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+.v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+.v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+.v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+.red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+th { font-weight: normal; }
+
+/* ::::: http://safari.bvdep.com/portals/bvdep/xsltemplates/docsafari.css ::::: */
+
+.docBookTitle, .docPartTitle { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: x-large; font-weight: bold; }
+.docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: x-large; }
+.docSidebarTitle { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: x-large; text-align: center; }
+.docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: large; }
+.docSection2Title, .docBibliosetTitle { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: medium; }
+.docSection3Title, .docSection4Title, .docSection5Title { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: small; font-weight: bold; }
+.docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: small; font-weight: bold; }
+.docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+.docMonofont { font-family: Courier New,Courier,monospace; }
+.docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+.docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+.docRefCell { font-family: Arial,Helvetica,sans-serif; color: black; font-size: medium; }
+.docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+.docIndexterm { color: rgb(160, 160, 160); font-size: x-small; }
+.docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(0, 0, 0); font-size: x-small; }
+.docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+.docNoteTitle { font-family: Arial,Helvetica,sans-serif; color: black; font-size: small; font-weight: bold; }
+.docNormalTitle, .docTipTitle { font-family: Arial,Helvetica,sans-serif; color: rgb(53, 66, 120); font-size: small; font-weight: bold; }
+.docCautionsTitle { font-family: Arial,Helvetica,sans-serif; color: rgb(204, 0, 0); font-size: small; font-weight: bold; }
+.docLink { color: rgb(0, 51, 153); text-decoration: none; }
+.docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+.docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+.docEmphasis { font-style: italic; }
+.docEmphBold, .docEmphStrong { font-weight: bold; }
+.docEmphGray { color: rgb(192, 192, 192); }
+.docEmphMark { background-color: rgb(192, 192, 192); }
+.docEmphRev { color: silver; background-color: black; }
+.docEmphStrike { text-decoration: line-through; }
+.docEmphUl, .docEmphCursor { text-decoration: underline; }
+.docEmphBoldItalic { font-style: italic; font-weight: bold; }
+.docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+.docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+.docEmphHyperlink { color: black; }
+.docCaps { text-transform: uppercase; }
+.docStructname { font-variant: small-caps; }
+.docPubcolor { color: rgb(53, 66, 120); }
+h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+pre { color: rgb(0, 0, 102); font-family: Courier New,Courier,monospace; }
+tt { color: rgb(0, 0, 102); font-family: Courier New,Courier,monospace; }
+
+/* ::::: http://safari.bvdep.com/portals/bvdep/xsltemplates/globalstyle.css ::::: */
+
+.PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+.SideSmallText { font-size: 11px; }
+.SmallNoteText { font-size: xx-small; }
+.CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+.Error { color: rgb(170, 0, 0); font-weight: bold; }
+.ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+
+/* ::::: http://safari.bvdep.com/includes/searchResults.css ::::: */
+
+.under_results {  }
+.searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+.search_options { margin-left: 10px; }
+.search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+#results_panel .options a:hover { text-decoration: underline; }
+.tabs {  }
+.tabs img { margin-right: 6px; }
+#results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+.header { background-color: rgb(171, 177, 187); }
+.header_td { padding: 5px; }
+.header_tbl {  }
+.subheader { background-color: rgb(217, 220, 224); }
+.subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+.subheader a:link { color: rgb(98, 114, 140); }
+.subheader a:visited { color: rgb(98, 114, 140); }
+.subheader a:hover { color: rgb(98, 114, 140); }
+.subheader a:active { color: rgb(98, 114, 140); }
+.expand_btn { text-align: center; margin-bottom: 20px; }
+.page_nav td { padding-right: 5px; }
+.search_terms { float: left; padding-left: 6px; }
+.num_results { float: left; padding-left: 6px; }
+.page_nav_tbl { float: right; }
+.result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+.result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+.book_label { color: rgb(51, 51, 153); font-weight: bold; }
+.book_title { font-weight: bold; font-size: 11px; }
+.articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+.panel_hed { padding: 15px 0pt 5px; }
+.intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+.detail_text_box { border: 1px solid rgb(157, 164, 176); }
+.detail_text_title {  }
+.detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+.detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+.detail_text_title h3 { font-size: 16px; font-weight: bold; }
+.detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+.detail_text_box a:hover { color: rgb(157, 132, 176); }
+.inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+.inner_panel_cell { padding: 4px; }
+.article_n { font-weight: bold; color: rgb(255, 153, 0); }
+.guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+.article_title { font-weight: bold; }
+.search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+.button { font-size: xx-small; }
+.float_r { float: right; }
+.checkbox { background-color: rgb(232, 235, 237); }
+.hed_cell { padding-top: 15px; }
+
+/* ::::: http://safari.bvdep.com/portals/bvdep/xsltemplates/globalstyle.css ::::: */
+
+.PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+.SideSmallText { font-size: 11px; }
+.SmallNoteText { font-size: xx-small; }
+.CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+.Error { color: rgb(170, 0, 0); font-weight: bold; }
+.ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }

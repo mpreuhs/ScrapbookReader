@@ -1,0 +1,1694 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NS1="http://amb.vis.ne.jp/mozilla/scrapbook-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214842"
+                   NS1:id="20050914214842"
+                   NS1:type=""
+                   NS1:title="Hack 15. Make JLists Checkable"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123316"
+                   NS1:id="20050923123316"
+                   NS1:type=""
+                   NS1:title="Hack 69. Translucent Drag-and-Drop"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-6&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220228"
+                   NS1:id="20050914220228"
+                   NS1:type=""
+                   NS1:title="Hack 32. Preview ZIP and JAR Files"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4-SECT-6&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220809"
+                   NS1:id="20050914220809"
+                   NS1:type=""
+                   NS1:title="Hack 37. Save Window Settings"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-6&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215917"
+                   NS1:id="20050914215917"
+                   NS1:type=""
+                   NS1:title="Hack 23. Let Your JTables Do the Sorting"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232341"
+                   NS1:id="20050920232341"
+                   NS1:type="combine"
+                   NS1:title="Chapter 6. Transparent and Animated Windows"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123942"
+                   NS1:id="20050923123942"
+                   NS1:type=""
+                   NS1:title="Hack 87. Create an Inverse Black-and-White Theme"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-10&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923131432">
+    <RDF:li RDF:resource="urn:scrapbook:item20060923132326"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050908022404"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202726"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050908022942"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202950"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914203058"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204717"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215032"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220031"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220254"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220904"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232341"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010407"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921123641"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123352"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123630"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124029"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923125030"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124943"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923131444"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923131445"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923131447"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923131448"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152053"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923131432"
+                   NS1:id="20060923131432"
+                   NS1:type="folder"
+                   NS1:title="Chris Adamson, Joshua Marinacci: Swing Hacks"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202847"
+                   NS1:id="20050914202847"
+                   NS1:type=""
+                   NS1:title="How to Contact Us"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-6&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152052">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202805"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202809"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202813"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202817"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152052"
+                   NS1:id="20060923152052"
+                   NS1:type="folder"
+                   NS1:title="Creadits"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215849"
+                   NS1:id="20050914215849"
+                   NS1:type=""
+                   NS1:title="Chapter 3. Tables and Trees"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215946"
+                   NS1:id="20050914215946"
+                   NS1:type=""
+                   NS1:title="Hack 27. Animate JTree Drops"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-8&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124659"
+                   NS1:id="20050923124659"
+                   NS1:type=""
+                   NS1:title="Hack 90. Create Demonstrations with the Robot Class"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-4&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215857"
+                   NS1:id="20050914215857"
+                   NS1:type=""
+                   NS1:title="3.1. Hacks 21–27: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204717"
+                   NS1:id="20050914204717"
+                   NS1:type="combine"
+                   NS1:title="Chapter 1. Basic JComponents"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214747"
+                   NS1:id="20050914214747"
+                   NS1:type=""
+                   NS1:title="2.1. Hacks 13–20: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050908022713"
+                   NS1:id="20050908022713"
+                   NS1:type=""
+                   NS1:title="Swing Hacks"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="resource://scrapbook/data/20050908022713/favicon.ico"
+                   NS1:source="http://www.oreilly.com/catalog/swinghks/errata/" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215937"
+                   NS1:id="20050914215937"
+                   NS1:type=""
+                   NS1:title="Hack 26. Search Through JTables Easily"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-7&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232357"
+                   NS1:id="20050920232357"
+                   NS1:type=""
+                   NS1:title="Chapter 7. Text"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123903"
+                   NS1:id="20050923123903"
+                   NS1:type=""
+                   NS1:title="Hack 83. Control iTunes Under Windows"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-6&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921123641"
+                   NS1:id="20050921123641"
+                   NS1:type="combine"
+                   NS1:title="Chapter 8. Rendering"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914203058"
+                   NS1:id="20050914203058"
+                   NS1:type="combine"
+                   NS1:title="Preface"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204536"
+                   NS1:id="20050914204536"
+                   NS1:type=""
+                   NS1:title="Hack 4. Display Dates in a Custom Calendar"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123921"
+                   NS1:id="20050923123921"
+                   NS1:type=""
+                   NS1:title="Hack 85. Stuff Stuff in JARs"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-8&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123451"
+                   NS1:id="20050923123451"
+                   NS1:type=""
+                   NS1:title="Hack 72. Play a Sound with Java Media Framework"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10-SECT-4&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20060923132326"
+                   NS1:id="20060923132326"
+                   NS1:type=""
+                   NS1:chars="UTF-8"
+                   NS1:source="http://www.oreilly.com/catalog/swinghks/#top"
+                   NS1:icon="resource://scrapbook/data/20060923132326/favicon.ico"
+                   NS1:title="Chris Adamson, Joshua Marinacci: Swing Hacks - Tips and Tools for Killer GUIs (O'Reilly)"
+                   NS1:comment="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232144"
+                   NS1:id="20050920232144"
+                   NS1:type=""
+                   NS1:title="Hack 43. Create Custom Tool Tips"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-4&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220735"
+                   NS1:id="20050914220735"
+                   NS1:type=""
+                   NS1:title="5.1. Hacks 33–40: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202850"
+                   NS1:id="20050914202850"
+                   NS1:type=""
+                   NS1:title="Got a Hack?"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-7&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124029"
+                   NS1:id="20050923124029"
+                   NS1:type="combine"
+                   NS1:title="Chapter 11. Native Integration and Packaging"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123243"
+                   NS1:id="20050923123243"
+                   NS1:type=""
+                   NS1:title="Hack 66. Handle Dropped URLs"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-3&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124839"
+                   NS1:id="20050923124839"
+                   NS1:type=""
+                   NS1:title="Hack 96. Debug Components with a Custom Glass Pane"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-10&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123504"
+                   NS1:id="20050923123504"
+                   NS1:type=""
+                   NS1:title="Hack 73. Play a Sound with QuickTime for Java"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10-SECT-5&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220828"
+                   NS1:id="20050914220828"
+                   NS1:type=""
+                   NS1:title="Hack 40. Minimize to a Mini-Frame"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-9&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202421"
+                   NS1:id="20050914202421"
+                   NS1:type="file"
+                   NS1:title="Hack 44: Turn Dialogs into Frame-Anchored Sheets (PDF)"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon="moz-icon://hack44.pdf?size=16"
+                   NS1:source="file:///N:/scrapbooks/safari__books/develop/java/data/20050907144831/hack44.pdf" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010309"
+                   NS1:id="20050921010309"
+                   NS1:type=""
+                   NS1:title="Hack 52. Use HTML and CSS in Text Components"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-6&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202824"
+                   NS1:id="20050914202824"
+                   NS1:type=""
+                   NS1:title="Why Swing Hacks?"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010425"
+                   NS1:id="20050921010425"
+                   NS1:type=""
+                   NS1:title="Chapter 8. Rendering"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214858"
+                   NS1:id="20050914214858"
+                   NS1:type=""
+                   NS1:title="Hack 16. Make Different List Items Look Different"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050908022808"
+                   NS1:id="20050908022808"
+                   NS1:type=""
+                   NS1:title="Errata: a list of errors in the most recent printing"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="resource://scrapbook/data/20050908022808/favicon.ico"
+                   NS1:source="http://www.oreilly.com/catalog/swinghks/errata/swinghks.confirmed" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050908022817"
+                   NS1:id="20050908022817"
+                   NS1:type=""
+                   NS1:title="Unconfirmed error reports and comments from readers"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="resource://scrapbook/data/20050908022817/favicon.ico"
+                   NS1:source="http://www.oreilly.com/catalog/swinghks/errata/swinghks.unconfirmed" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204512"
+                   NS1:id="20050914204512"
+                   NS1:type=""
+                   NS1:title="Hack 1. Create Image-Themed Components"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124824"
+                   NS1:id="20050923124824"
+                   NS1:type=""
+                   NS1:title="Hack 95. Debug Your GUI"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-9&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202813"
+                   NS1:id="20050914202813"
+                   NS1:type=""
+                   NS1:title="Contributors"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-2-SECT-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123234"
+                   NS1:id="20050923123234"
+                   NS1:type=""
+                   NS1:title="Hack 65. Drag-and-Drop with Files"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-2&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202726"
+                   NS1:id="20050914202726"
+                   NS1:type="image"
+                   NS1:title="Chris Adamson, Joshua Marinacci: Swing Hacks (JPG)"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon="moz-icon://0596009070.jpg?size=16"
+                   NS1:source="file:///N:/scrapbooks/safari__books/develop/java/data/20050907144831/0596009070.jpg" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214920"
+                   NS1:id="20050914214920"
+                   NS1:type=""
+                   NS1:title="Hack 18. Animate Your JList Selections"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-7&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214909"
+                   NS1:id="20050914214909"
+                   NS1:type=""
+                   NS1:title="Hack 17. Reorder a JList with Drag-and-Drop"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-6&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010320"
+                   NS1:id="20050921010320"
+                   NS1:type=""
+                   NS1:title="Hack 53. Use Global Anti-Aliased Fonts"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-7&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204611"
+                   NS1:id="20050914204611"
+                   NS1:type=""
+                   NS1:title="Hack 9. Blur Disabled Components"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-10&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204632"
+                   NS1:id="20050914204632"
+                   NS1:type=""
+                   NS1:title="Hack 12. Add Translucence to Menus"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-13&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215930"
+                   NS1:id="20050914215930"
+                   NS1:type=""
+                   NS1:title="Hack 25. Export Table Data to an Excel Spreadsheet"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-6&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202534"
+                   NS1:id="20050914202534"
+                   NS1:type="file"
+                   NS1:title="Hack 65: Drag-and-Drop with Files (PDF)"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon="moz-icon://hack65.pdf?size=16"
+                   NS1:source="file:///N:/scrapbooks/safari__books/develop/java/data/20050907144831/hack65.pdf" />
+  <RDF:Seq RDF:about="urn:scrapbook:root">
+    <RDF:li RDF:resource="urn:scrapbook:item20060923131432"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202834"
+                   NS1:id="20050914202834"
+                   NS1:type=""
+                   NS1:title="How This Book Is Organized"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152203">
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010425"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010449"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010501"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010511"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010519"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921123113"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921123123"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921123132"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921123218"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921123230"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921123243"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152203"
+                   NS1:id="20060923152203"
+                   NS1:type="folder"
+                   NS1:title="Chapter 8. Rendering"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010449"
+                   NS1:id="20050921010449"
+                   NS1:type=""
+                   NS1:title="8.1. Hacks 56–64: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-1&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202333"
+                   NS1:id="20050914202333"
+                   NS1:type="file"
+                   NS1:title="Hack 8: Animate Transitions Between Tabs (PDF)"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon="moz-icon://hack08.pdf?size=16"
+                   NS1:source="file:///N:/scrapbooks/safari__books/develop/java/data/20050907144831/hack08.pdf" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220205"
+                   NS1:id="20050914220205"
+                   NS1:type=""
+                   NS1:title="Hack 29. Display Shortcuts in the JFileChooser"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4-SECT-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220157"
+                   NS1:id="20050914220157"
+                   NS1:type=""
+                   NS1:title="Hack 28. Add a Right-Click Context Menu to the JFileChooser"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4-SECT-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123630"
+                   NS1:id="20050923123630"
+                   NS1:type="combine"
+                   NS1:title="Chapter 10. Audio"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921123132"
+                   NS1:id="20050921123132"
+                   NS1:type=""
+                   NS1:title="Hack 61. Load New Fonts at Runtime"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-7&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010511"
+                   NS1:id="20050921010511"
+                   NS1:type=""
+                   NS1:title="Hack 57. Create a Global Right-Click"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-3&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921123113"
+                   NS1:id="20050921123113"
+                   NS1:type=""
+                   NS1:title="Hack 59. Create a Color Eyedropper"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-5&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152219">
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123408"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123419"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123427"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123440"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123451"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123504"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123512"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152219"
+                   NS1:id="20060923152219"
+                   NS1:type="folder"
+                   NS1:title="Chapter 10. Audio"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232314"
+                   NS1:id="20050920232314"
+                   NS1:type=""
+                   NS1:title="Hack 47. Indefinite Progress Indicator"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-8&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123809"
+                   NS1:id="20050923123809"
+                   NS1:type=""
+                   NS1:title="Chapter 11. Native Integration and Packaging"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202821"
+                   NS1:id="20050914202821"
+                   NS1:type=""
+                   NS1:title="Preface"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232125"
+                   NS1:id="20050920232125"
+                   NS1:type=""
+                   NS1:title="Hack 42. Make Your Frame Dissolve"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-3&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20060923132808"
+                   NS1:id="20060923132808"
+                   NS1:type="file"
+                   NS1:title="Swing Hacks Examples 20060109 (ZIP)"
+                   NS1:chars=""
+                   NS1:icon="moz-icon://swing-hacks-examples-20060109.zip?size=16"
+                   NS1:source="http://examples.oreilly.com/swinghks/swing-hacks-examples-20060109.zip"
+                   NS1:comment="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214941"
+                   NS1:id="20050914214941"
+                   NS1:type=""
+                   NS1:title="Hack 20. Create a Collections-Aware JComboBox"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-9&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204522"
+                   NS1:id="20050914204522"
+                   NS1:type=""
+                   NS1:title="Hack 2. Don't Settle for Boring Text Labels"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202805"
+                   NS1:id="20050914202805"
+                   NS1:type=""
+                   NS1:title="Credits"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220212"
+                   NS1:id="20050914220212"
+                   NS1:type=""
+                   NS1:title="Hack 30. Real Windows Shortcut Support"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4-SECT-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232414"
+                   NS1:id="20050920232414"
+                   NS1:type=""
+                   NS1:title="Hack 48. Make Text Components Searchable"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-2&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220755"
+                   NS1:id="20050914220755"
+                   NS1:type=""
+                   NS1:title="Hack 35. Add Windows Resize Icons"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232158"
+                   NS1:id="20050920232158"
+                   NS1:type=""
+                   NS1:title="Hack 44. Turn Dialogs into Frame-Anchored Sheets"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-5&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123826"
+                   NS1:id="20050923123826"
+                   NS1:type=""
+                   NS1:title="Hack 79. Launch External Programs on Windows"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-2&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124512"
+                   NS1:id="20050923124512"
+                   NS1:type=""
+                   NS1:title="12.1. Hacks 88–100: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-1&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123852"
+                   NS1:id="20050923123852"
+                   NS1:type=""
+                   NS1:title="Hack 82. Control iTunes on Mac OS X"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-5&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152146">
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232032"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232044"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232054"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232125"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232144"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232158"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232251"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232302"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232314"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152146"
+                   NS1:id="20060923152146"
+                   NS1:type="folder"
+                   NS1:title="Chapter 6. Transparent and Animated Windows"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204455"
+                   NS1:id="20050914204455"
+                   NS1:type=""
+                   NS1:title="Chapter 1. Basic JComponents"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152103">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204455"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204503"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204512"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204529"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204522"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204536"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204542"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204548"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204558"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204604"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204611"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204619"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204625"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914204632"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152103"
+                   NS1:id="20060923152103"
+                   NS1:type="folder"
+                   NS1:title="Chapter 1. Basic JComponents"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123835"
+                   NS1:id="20050923123835"
+                   NS1:type=""
+                   NS1:title="Hack 80. Open Files, Directories, and URLs on Mac OS X"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-3&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220748"
+                   NS1:id="20050914220748"
+                   NS1:type=""
+                   NS1:title="Hack 34. Make a Draggable Window"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204503"
+                   NS1:id="20050914204503"
+                   NS1:type=""
+                   NS1:title="1.1. Hacks 1–12: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220031"
+                   NS1:id="20050914220031"
+                   NS1:type="combine"
+                   NS1:title="Chapter 3. Tables and Trees"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123819"
+                   NS1:id="20050923123819"
+                   NS1:type=""
+                   NS1:title="11.1. Hacks 79–87: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-1&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921123230"
+                   NS1:id="20050921123230"
+                   NS1:type=""
+                   NS1:title="Hack 63. Add a Third Dimension to Swing"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-9&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202838"
+                   NS1:id="20050914202838"
+                   NS1:type=""
+                   NS1:title="Conventions Used in This Book"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232406"
+                   NS1:id="20050920232406"
+                   NS1:type=""
+                   NS1:title="7.1. Hacks 48–55: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-1&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204558"
+                   NS1:id="20050914204558"
+                   NS1:type=""
+                   NS1:title="Hack 7. Put a NASA Photo into the Background of a Text Area"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-8&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204604"
+                   NS1:id="20050914204604"
+                   NS1:type=""
+                   NS1:title="Hack 8. Animate Transitions Between Tabs"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-9&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215032"
+                   NS1:id="20050914215032"
+                   NS1:type="combine"
+                   NS1:title="Chapter 2. Lists and Combos"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220822"
+                   NS1:id="20050914220822"
+                   NS1:type=""
+                   NS1:title="Hack 39. Spin Open a Detail Pane"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-8&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152235">
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124410"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124512"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124537"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124604"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124659"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124723"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124747"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124757"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124824"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124813"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124839"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124901"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124915"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124927"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923124936"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152235"
+                   NS1:id="20060923152235"
+                   NS1:type="folder"
+                   NS1:title="Chapter 12. Miscellany"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124723"
+                   NS1:id="20050923124723"
+                   NS1:type=""
+                   NS1:title="Hack 91. Check Your Mail with Swing"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-5&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921123123"
+                   NS1:id="20050921123123"
+                   NS1:type=""
+                   NS1:title="Hack 60. Changing Fonts Throughout Your Application"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-6&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204548"
+                   NS1:id="20050914204548"
+                   NS1:type=""
+                   NS1:title="Hack 6. Watermark Your Scroll Panes"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-7&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124604"
+                   NS1:id="20050923124604"
+                   NS1:type=""
+                   NS1:title="Hack 89. Fun with Keyboard Lights"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-3&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220220"
+                   NS1:id="20050914220220"
+                   NS1:type=""
+                   NS1:title="Hack 31. Add Image Preview to File Choosers"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4-SECT-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220142"
+                   NS1:id="20050914220142"
+                   NS1:type=""
+                   NS1:title="Chapter 4. File Choosers"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124757"
+                   NS1:id="20050923124757"
+                   NS1:type=""
+                   NS1:title="Hack 93. Code Models That Don't Block"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-7&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220904"
+                   NS1:id="20050914220904"
+                   NS1:type="combine"
+                   NS1:title="Chapter 5. Windows, Dialogs, and Frames"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123427"
+                   NS1:id="20050923123427"
+                   NS1:type=""
+                   NS1:title="Hack 70. Play a Sound in an Applet"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10-SECT-2&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220254"
+                   NS1:id="20050914220254"
+                   NS1:type="combine"
+                   NS1:title="Chapter 4. File Choosers"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923125030"
+                   NS1:id="20050923125030"
+                   NS1:type="combine"
+                   NS1:title="Chapter 12. Miscellany"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123226"
+                   NS1:id="20050923123226"
+                   NS1:type=""
+                   NS1:title="9.1. Hacks 65–69: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-1&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232054"
+                   NS1:id="20050920232054"
+                   NS1:type=""
+                   NS1:title="Hack 41. Transparent Windows"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-2&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215903"
+                   NS1:id="20050914215903"
+                   NS1:type=""
+                   NS1:title="Hack 21. Size Your Columns to Suit Your JTable's Contents"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923131445">
+    <RDF:li RDF:resource="urn:scrapbook:item20050908022713"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050908022808"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050908022817"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923131445"
+                   NS1:id="20060923131445"
+                   NS1:type="folder"
+                   NS1:title="Errata"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123844"
+                   NS1:id="20050923123844"
+                   NS1:type=""
+                   NS1:title="Hack 81. Make Mac Applications Behave Normally"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-4&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232423"
+                   NS1:id="20050920232423"
+                   NS1:type=""
+                   NS1:title="Hack 49. Force Text Input into Specific Formats"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-3&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202809"
+                   NS1:id="20050914202809"
+                   NS1:type=""
+                   NS1:title="About the Authors"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-2-SECT-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232251"
+                   NS1:id="20050920232251"
+                   NS1:type=""
+                   NS1:title="Hack 45. Animating a Sheet Dialog"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-6&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215924"
+                   NS1:id="20050914215924"
+                   NS1:type=""
+                   NS1:title="Hack 24. Create a JDBC Table Model"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923131447">
+    <RDF:li RDF:resource="urn:scrapbook:item20060923132808"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923131447"
+                   NS1:id="20060923131447"
+                   NS1:type="folder"
+                   NS1:title="Examples"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202748"
+                   NS1:id="20050914202748"
+                   NS1:type=""
+                   NS1:title="Joshua Marinacci: Hacking Swing with Undocumented Classes and Properties"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="resource://scrapbook/data/20050914202748/favicon.ico"
+                   NS1:source="http://www.onjava.com/lpt/a/6095" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202403"
+                   NS1:id="20050914202403"
+                   NS1:type="file"
+                   NS1:title="Hack 38: Earthquake Dialog (PDF)"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon="moz-icon://hack38.pdf?size=16"
+                   NS1:source="file:///N:/scrapbooks/safari__books/develop/java/data/20050907144831/hack38.pdf" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220815"
+                   NS1:id="20050914220815"
+                   NS1:type=""
+                   NS1:title="Hack 38. Earthquake Dialog"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-7&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202854"
+                   NS1:id="20050914202854"
+                   NS1:type=""
+                   NS1:title="Safari Enabled"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-8&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152137">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220725"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220735"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220748"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220741"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220755"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220802"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220809"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220815"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220822"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220828"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152137"
+                   NS1:id="20060923152137"
+                   NS1:type="folder"
+                   NS1:title="Chapter 5. Windows, Dialogs, and Frames"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123255"
+                   NS1:id="20050923123255"
+                   NS1:type=""
+                   NS1:title="Hack 67. Handle Dropped Images"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-4&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202950"
+                   NS1:id="20050914202950"
+                   NS1:type="combine"
+                   NS1:title="Credits"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152154">
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232357"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232406"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232414"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920232423"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050920233127"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010257"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010309"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010320"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010338"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050921010329"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152154"
+                   NS1:id="20060923152154"
+                   NS1:type="folder"
+                   NS1:title="Chapter 7. Text"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921123243"
+                   NS1:id="20050921123243"
+                   NS1:type=""
+                   NS1:title="Hack 64. Turn the Spotlight on Swing"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-10&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123305"
+                   NS1:id="20050923123305"
+                   NS1:type=""
+                   NS1:title="Hack 68. Handling Dropped Picts on Mac OS X"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9-SECT-5&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010329"
+                   NS1:id="20050921010329"
+                   NS1:type=""
+                   NS1:title="Hack 54. Anti-Aliased Text Without Code"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-8&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232044"
+                   NS1:id="20050920232044"
+                   NS1:type=""
+                   NS1:title="6.1. Hacks 41–47: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-1&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204619"
+                   NS1:id="20050914204619"
+                   NS1:type=""
+                   NS1:title="Hack 10. Building a Drop-Down Menu Button"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-11&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010519"
+                   NS1:id="20050921010519"
+                   NS1:type=""
+                   NS1:title="Hack 58. Block a Window Without a Modal Dialog"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-4&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202555"
+                   NS1:id="20050914202555"
+                   NS1:type="file"
+                   NS1:title="Hack 89: Fun with Keyboard Lights (PDF)"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon="moz-icon://hack89.pdf?size=16"
+                   NS1:source="file:///N:/scrapbooks/safari__books/develop/java/data/20050907144831/hack89.pdf" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010338"
+                   NS1:id="20050921010338"
+                   NS1:type=""
+                   NS1:title="Hack 55. Anti-Aliased Text with a Custom Look and Feel"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-9&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914215909"
+                   NS1:id="20050914215909"
+                   NS1:type=""
+                   NS1:title="Hack 22. Add Column Selection to JTables"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-3-SECT-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124747"
+                   NS1:id="20050923124747"
+                   NS1:type=""
+                   NS1:title="Hack 92. Don't Block the GUI"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-6&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923131448">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202333"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202403"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202421"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202443"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202534"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202555"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923131448"
+                   NS1:id="20060923131448"
+                   NS1:type="folder"
+                   NS1:title="Sample Hacks"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123932"
+                   NS1:id="20050923123932"
+                   NS1:type=""
+                   NS1:title="Hack 86. Make Quick Look and Feel Changes"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-9&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220725"
+                   NS1:id="20050914220725"
+                   NS1:type=""
+                   NS1:title="Chapter 5. Windows, Dialogs, and Frames"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220150"
+                   NS1:id="20050914220150"
+                   NS1:type=""
+                   NS1:title="4.1. Hacks 28–32: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-4-SECT-1&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232032"
+                   NS1:id="20050920232032"
+                   NS1:type=""
+                   NS1:title="Chapter 6. Transparent and Animated Windows"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124915"
+                   NS1:id="20050923124915"
+                   NS1:type=""
+                   NS1:title="Hack 98. Add Velocity for Dynamic HTML"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-12&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152123">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215849"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215857"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215903"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215909"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215917"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215924"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215930"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215937"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914215946"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152123"
+                   NS1:id="20060923152123"
+                   NS1:type="folder"
+                   NS1:title="Chapter 3. Tables and Trees"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123912"
+                   NS1:id="20050923123912"
+                   NS1:type=""
+                   NS1:title="Hack 84. Construct Single-Launch Applications"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-11-SECT-7&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010501"
+                   NS1:id="20050921010501"
+                   NS1:type=""
+                   NS1:title="Hack 56. Create a Magnifying Glass Component"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-2&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124410"
+                   NS1:id="20050923124410"
+                   NS1:type=""
+                   NS1:title="Chapter 12. Miscellany"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152114">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214445"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214747"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214755"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214811"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214842"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214858"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214909"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214920"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214931"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914214941"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152114"
+                   NS1:id="20060923152114"
+                   NS1:type="folder"
+                   NS1:title="Chapter 2. Lists and Combos"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123512"
+                   NS1:id="20050923123512"
+                   NS1:type=""
+                   NS1:title="Hack 74. Add MP3 Support to JMF"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10-SECT-6&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204529"
+                   NS1:id="20050914204529"
+                   NS1:type=""
+                   NS1:title="Hack 3. Fill Your Borders with Pretty Pictures"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-4&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202828"
+                   NS1:id="20050914202828"
+                   NS1:type=""
+                   NS1:title="How to Use This Book"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214755"
+                   NS1:id="20050914214755"
+                   NS1:type=""
+                   NS1:title="Hack 13. Filter JLists"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214931"
+                   NS1:id="20050914214931"
+                   NS1:type=""
+                   NS1:title="Hack 19. Turn Methods into List Renderers"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-8&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010407"
+                   NS1:id="20050921010407"
+                   NS1:type="combine"
+                   NS1:title="Chapter 7. Text"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202817"
+                   NS1:id="20050914202817"
+                   NS1:type=""
+                   NS1:title="Acknowledgments"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-2-SECT-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152053">
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152052"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152055"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152103"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152114"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152123"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152131"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152137"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152146"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152154"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152203"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152213"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152219"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152226"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20060923152235"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152053"
+                   NS1:id="20060923152053"
+                   NS1:type="folder"
+                   NS1:title="Single Chapters"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202843"
+                   NS1:id="20050914202843"
+                   NS1:type=""
+                   NS1:title="Using Code Examples"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-PREF-3-SECT-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123440"
+                   NS1:id="20050923123440"
+                   NS1:type=""
+                   NS1:title="Hack 71. Play a Sound with JavaSound"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10-SECT-3&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920233127"
+                   NS1:id="20050920233127"
+                   NS1:type=""
+                   NS1:title="Hack 50. Auto-Completing Text Fields"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-4&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214811"
+                   NS1:id="20050914214811"
+                   NS1:type=""
+                   NS1:title="Hack 14. Add a Filter History"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2-SECT-3&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921123218"
+                   NS1:id="20050921123218"
+                   NS1:type=""
+                   NS1:title="Hack 62. Build a Colorful Vector-Based Button"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-8-SECT-8&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124936"
+                   NS1:id="20050923124936"
+                   NS1:type=""
+                   NS1:title="Hack 100. Make Frames Resize Dynamically"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-14&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124537"
+                   NS1:id="20050923124537"
+                   NS1:type=""
+                   NS1:title="Hack 88. Display a Busy Cursor"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-2&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220741"
+                   NS1:id="20050914220741"
+                   NS1:type=""
+                   NS1:title="Hack 33. Window Snapping"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050921010257"
+                   NS1:id="20050921010257"
+                   NS1:type=""
+                   NS1:title="Hack 51. Write Backward Text"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-7-SECT-5&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124943"
+                   NS1:id="20050923124943"
+                   NS1:type=""
+                   NS1:title="Colophon"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/colophon&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123352"
+                   NS1:id="20050923123352"
+                   NS1:type="combine"
+                   NS1:title="Chapter 9. Drag-and-Drop"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923131444">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202748"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923131444"
+                   NS1:id="20060923131444"
+                   NS1:type="folder"
+                   NS1:title="Articles"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914220802"
+                   NS1:id="20050914220802"
+                   NS1:type=""
+                   NS1:title="Hack 36. Add Status Bars to Windows"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-5-SECT-5&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050908022942"
+                   NS1:id="20050908022942"
+                   NS1:type=""
+                   NS1:title="Table of Contents"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=toc&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914202443"
+                   NS1:id="20050914202443"
+                   NS1:type="file"
+                   NS1:title="Hack 59: Create a Color Eyedropper (PDF)"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon="moz-icon://hack59.pdf?size=16"
+                   NS1:source="file:///N:/scrapbooks/safari__books/develop/java/data/20050907144831/hack59.pdf" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124813"
+                   NS1:id="20050923124813"
+                   NS1:type=""
+                   NS1:title="Hack 94. Fire Events and Stay Bug Free"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-8&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123408"
+                   NS1:id="20050923123408"
+                   NS1:type=""
+                   NS1:title="Chapter 10. Audio"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152213">
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123219"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123226"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123234"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123243"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123255"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123305"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123316"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152213"
+                   NS1:id="20060923152213"
+                   NS1:type="folder"
+                   NS1:title="Chapter 9. Drag-and-Drop"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204542"
+                   NS1:id="20050914204542"
+                   NS1:type=""
+                   NS1:title="Hack 5. Add a Watermark to a Text Component"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-6&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914204625"
+                   NS1:id="20050914204625"
+                   NS1:type=""
+                   NS1:title="Hack 11. Create Menus with Drop Shadows"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-1-SECT-12&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152055">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202821"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202824"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202834"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202828"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202838"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202843"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202847"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202850"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914202854"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152055"
+                   NS1:id="20060923152055"
+                   NS1:type="folder"
+                   NS1:title="Preface"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123419"
+                   NS1:id="20050923123419"
+                   NS1:type=""
+                   NS1:title="10.1. Hacks 70–78: Introduction"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-10-SECT-1&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124927"
+                   NS1:id="20050923124927"
+                   NS1:type=""
+                   NS1:title="Hack 99. Get Large File Icons"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-13&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050920232302"
+                   NS1:id="20050920232302"
+                   NS1:type=""
+                   NS1:title="Hack 46. Slide Notes Out from the Taskbar"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=print&amp;sortKey=rank&amp;sortOrder=desc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-6-SECT-7&amp;k=null&amp;g=&amp;catid=itbooks.opsys.linux.shellutils&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152131">
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220142"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220150"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220157"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220205"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220220"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220212"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050914220228"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152131"
+                   NS1:id="20060923152131"
+                   NS1:type="folder"
+                   NS1:title="Chapter 4. File Choosers"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923123219"
+                   NS1:id="20050923123219"
+                   NS1:type=""
+                   NS1:title="Chapter 9. Drag-and-Drop"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-9&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050914214445"
+                   NS1:id="20050914214445"
+                   NS1:type=""
+                   NS1:title="Chapter 2. Lists and Combos"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-2&amp;g=&amp;catid=itbooks.prog.java.swing&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050908022404"
+                   NS1:id="20050908022404"
+                   NS1:type=""
+                   NS1:title="Chris Adamson, Joshua Marinacci: Swing Hacks"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/JVXSL.asp?x=1&amp;mode=section&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0&amp;page=0" />
+  <RDF:Description RDF:about="urn:scrapbook:item20050923124901"
+                   NS1:id="20050923124901"
+                   NS1:type=""
+                   NS1:title="Hack 97. Mirror an Application"
+                   NS1:chars="UTF-8"
+                   NS1:comment=""
+                   NS1:icon="chrome://scrapbook/skin/treeitem.png"
+                   NS1:source="http://safari.bvdep.com/?x=1&amp;mode=print&amp;sortKey=title&amp;sortOrder=asc&amp;view=&amp;xmlid=0596009070/swinghacks-CHP-12-SECT-11&amp;k=null&amp;g=&amp;catid=&amp;s=1&amp;b=1&amp;f=1&amp;t=1&amp;c=1&amp;u=1&amp;r=&amp;o=1&amp;n=1&amp;d=1&amp;p=1&amp;a=0" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20060923152226">
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123809"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123819"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123826"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123844"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123835"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123852"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123903"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123912"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123921"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123932"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20050923123942"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20060923152226"
+                   NS1:id="20060923152226"
+                   NS1:type="folder"
+                   NS1:title="Chapter 11. Native Integration and Packaging"
+                   NS1:chars=""
+                   NS1:comment=""
+                   NS1:icon=""
+                   NS1:source="" />
+</RDF:RDF>

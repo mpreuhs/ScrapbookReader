@@ -1,0 +1,1637 @@
+
+/* ::::: file:///N:/scrapbooks/safari__books/develop/java/combine.css ::::: */
+
+div#item20050923123219 .safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+div#item20050923123219 .aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123219 .aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123219 .aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123219 .aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123219 .aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123219 .aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+div#item20050923123219 .aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123219 .aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+div#item20050923123219 .aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+div#item20050923123219 .a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123219 .a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123219 .a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123219 .a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123219 .a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123219 .a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123219 .a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123219 .a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123219 .a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123219 .a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+div#item20050923123219 .AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+div#item20050923123219 .bg { background-color: rgb(255, 255, 255); }
+div#item20050923123219 { background-color: white; color: black; }
+div#item20050923123219 .DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+div#item20050923123219 .DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123219 .dlg { background-color: rgb(255, 255, 204); }
+div#item20050923123219 .PricesMax { background-color: rgb(231, 159, 88); }
+div#item20050923123219 .PricesMaxOutline { background-color: rgb(204, 102, 0); }
+div#item20050923123219 .PricesBasic { background-color: rgb(238, 232, 233); }
+div#item20050923123219 .PricesBasicOutline { background-color: rgb(153, 153, 153); }
+div#item20050923123219 .entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+div#item20050923123219 .FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+div#item20050923123219 .FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+div#item20050923123219 .FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+div#item20050923123219 .GroupNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123219 .hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+div#item20050923123219 .ListByCatBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123219 .ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .ListByCatOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123219 .logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123219 .menuborder { background-color: rgb(220, 220, 235); }
+div#item20050923123219 .menuLeft { background-color: rgb(253, 226, 119); }
+div#item20050923123219 .menuRight { background-color: rgb(253, 226, 119); }
+div#item20050923123219 .menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+div#item20050923123219 .menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+div#item20050923123219 .MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123219 .MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123219 .MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .MyTokensBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123219 .MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .MyTokensOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123219 .MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+div#item20050923123219 .MyBookshelfEvenRows {  }
+div#item20050923123219 .MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .MyBookshelfTableHeading {  }
+div#item20050923123219 .MyNotesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123219 .MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .MyNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123219 .navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123219 .navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123219 .navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123219 .navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123219 .NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .NewThisWeekEvenRows {  }
+div#item20050923123219 .NewThisWeekOddRows {  }
+div#item20050923123219 .NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+div#item20050923123219 .PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+div#item20050923123219 .printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123219 .PublicNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123219 .RecommendedTitlesEvenRows {  }
+div#item20050923123219 .RecommendedTitlesOddRows {  }
+div#item20050923123219 .RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .SearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .SearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123219 .SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123219 .SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123219 .SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123219 .t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+div#item20050923123219 .t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+div#item20050923123219 .t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+div#item20050923123219 .t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+div#item20050923123219 .t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123219 .tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123219 .TextFrame { background-color: rgb(209, 200, 161); }
+div#item20050923123219 .toc { background-color: rgb(255, 255, 193); }
+div#item20050923123219 .Top5Border { background-color: rgb(208, 199, 222); }
+div#item20050923123219 .Top5EvenRows {  }
+div#item20050923123219 .Top5OddRows {  }
+div#item20050923123219 .Top5TableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123219 .toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+div#item20050923123219 .topmenu { background-color: rgb(143, 15, 15); }
+div#item20050923123219 .v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123219 .v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+div#item20050923123219 .v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123219 .v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123219 .v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123219 .v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+div#item20050923123219 .v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123219 .v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123219 .v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123219 .v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123219 .red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+div#item20050923123219 th { font-weight: normal; }
+div#item20050923123219 table { border-color: black; border-width: 1px; padding: 1ex; border-collapse: collapse; }
+div#item20050923123219 .docBookTitle, .docPartTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; font-weight: bold; }
+div#item20050923123219 .docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; }
+div#item20050923123219 .docSidebarTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; text-align: center; }
+div#item20050923123219 .docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; }
+div#item20050923123219 .docSection2Title, .docBibliosetTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: small; }
+div#item20050923123219 .docSection3Title, .docSection4Title, .docSection5Title { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123219 .docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123219 .docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123219 .docMonofont { font-family: Courier New,Courier,monospace; }
+div#item20050923123219 .docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123219 .docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+div#item20050923123219 .docRefCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+div#item20050923123219 .docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+div#item20050923123219 .docIndexterm { color: rgb(160, 160, 160); font-size: xx-small; }
+div#item20050923123219 .docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(96, 96, 96); font-size: xx-small; }
+div#item20050923123219 .docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+div#item20050923123219 .docNoteTitle { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; font-weight: bold; }
+div#item20050923123219 .docNormalTitle, .docTipTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123219 .docCautionsTitle { font-family: 'Times New Roman',Times,serif; color: rgb(204, 0, 0); font-size: x-small; font-weight: bold; }
+div#item20050923123219 .docLink { color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123219 .docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+div#item20050923123219 .docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+div#item20050923123219 .docEmphasis { font-style: italic; }
+div#item20050923123219 .docEmphBold, .docEmphStrong { font-weight: bold; }
+div#item20050923123219 .docEmphGray { color: rgb(192, 192, 192); }
+div#item20050923123219 .docEmphMark { background-color: rgb(192, 192, 192); }
+div#item20050923123219 .docEmphRev { color: silver; background-color: black; }
+div#item20050923123219 .docEmphStrike { text-decoration: line-through; }
+div#item20050923123219 .docEmphUl, .docEmphCursor { text-decoration: underline; }
+div#item20050923123219 .docEmphBoldItalic { font-style: italic; font-weight: bold; }
+div#item20050923123219 .docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+div#item20050923123219 .docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+div#item20050923123219 .docEmphHyperlink { color: black; }
+div#item20050923123219 .docCaps { text-transform: uppercase; }
+div#item20050923123219 .docStructname { font-variant: small-caps; }
+div#item20050923123219 .docPubcolor { color: rgb(53, 66, 120); }
+div#item20050923123219 h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+div#item20050923123219 pre { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123219 tt { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123219 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123219 .SideSmallText { font-size: 11px; }
+div#item20050923123219 .SmallNoteText { font-size: xx-small; }
+div#item20050923123219 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123219 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123219 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123219 .under_results {  }
+div#item20050923123219 .searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+div#item20050923123219 .search_options { margin-left: 10px; }
+div#item20050923123219 .search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123219 #results_panel .options a:hover { text-decoration: underline; }
+div#item20050923123219 .tabs {  }
+div#item20050923123219 .tabs img { margin-right: 6px; }
+div#item20050923123219 #results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123219 .header { background-color: rgb(171, 177, 187); }
+div#item20050923123219 .header_td { padding: 5px; }
+div#item20050923123219 .header_tbl {  }
+div#item20050923123219 .subheader { background-color: rgb(217, 220, 224); }
+div#item20050923123219 .subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+div#item20050923123219 .subheader a:link { color: rgb(98, 114, 140); }
+div#item20050923123219 .subheader a:visited { color: rgb(98, 114, 140); }
+div#item20050923123219 .subheader a:hover { color: rgb(98, 114, 140); }
+div#item20050923123219 .subheader a:active { color: rgb(98, 114, 140); }
+div#item20050923123219 .expand_btn { text-align: center; margin-bottom: 20px; }
+div#item20050923123219 .page_nav td { padding-right: 5px; }
+div#item20050923123219 .search_terms { float: left; padding-left: 6px; }
+div#item20050923123219 .num_results { float: left; padding-left: 6px; }
+div#item20050923123219 .page_nav_tbl { float: right; }
+div#item20050923123219 .result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123219 .result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123219 .book_label { color: rgb(51, 51, 153); font-weight: bold; }
+div#item20050923123219 .book_title { font-weight: bold; font-size: 11px; }
+div#item20050923123219 .articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123219 .panel_hed { padding: 15px 0pt 5px; }
+div#item20050923123219 .intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+div#item20050923123219 .detail_text_box { border: 1px solid rgb(157, 164, 176); }
+div#item20050923123219 .detail_text_title {  }
+div#item20050923123219 .detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123219 .detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+div#item20050923123219 .detail_text_title h3 { font-size: 16px; font-weight: bold; }
+div#item20050923123219 .detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+div#item20050923123219 .detail_text_box a:hover { color: rgb(157, 132, 176); }
+div#item20050923123219 .inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+div#item20050923123219 .inner_panel_cell { padding: 4px; }
+div#item20050923123219 .article_n { font-weight: bold; color: rgb(255, 153, 0); }
+div#item20050923123219 .guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+div#item20050923123219 .article_title { font-weight: bold; }
+div#item20050923123219 .search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+div#item20050923123219 .button { font-size: xx-small; }
+div#item20050923123219 .float_r { float: right; }
+div#item20050923123219 .checkbox { background-color: rgb(232, 235, 237); }
+div#item20050923123219 .hed_cell { padding-top: 15px; }
+div#item20050923123219 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123219 .SideSmallText { font-size: 11px; }
+div#item20050923123219 .SmallNoteText { font-size: xx-small; }
+div#item20050923123219 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123219 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123219 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123226 .safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+div#item20050923123226 .aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123226 .aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123226 .aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123226 .aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123226 .aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123226 .aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+div#item20050923123226 .aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123226 .aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+div#item20050923123226 .aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+div#item20050923123226 .a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123226 .a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123226 .a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123226 .a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123226 .a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123226 .a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123226 .a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123226 .a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123226 .a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123226 .a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+div#item20050923123226 .AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+div#item20050923123226 .bg { background-color: rgb(255, 255, 255); }
+div#item20050923123226 { background-color: white; color: black; }
+div#item20050923123226 .DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+div#item20050923123226 .DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123226 .dlg { background-color: rgb(255, 255, 204); }
+div#item20050923123226 .PricesMax { background-color: rgb(231, 159, 88); }
+div#item20050923123226 .PricesMaxOutline { background-color: rgb(204, 102, 0); }
+div#item20050923123226 .PricesBasic { background-color: rgb(238, 232, 233); }
+div#item20050923123226 .PricesBasicOutline { background-color: rgb(153, 153, 153); }
+div#item20050923123226 .entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+div#item20050923123226 .FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+div#item20050923123226 .FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+div#item20050923123226 .FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+div#item20050923123226 .GroupNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123226 .hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+div#item20050923123226 .ListByCatBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123226 .ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .ListByCatOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123226 .logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123226 .menuborder { background-color: rgb(220, 220, 235); }
+div#item20050923123226 .menuLeft { background-color: rgb(253, 226, 119); }
+div#item20050923123226 .menuRight { background-color: rgb(253, 226, 119); }
+div#item20050923123226 .menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+div#item20050923123226 .menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+div#item20050923123226 .MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123226 .MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123226 .MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .MyTokensBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123226 .MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .MyTokensOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123226 .MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+div#item20050923123226 .MyBookshelfEvenRows {  }
+div#item20050923123226 .MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .MyBookshelfTableHeading {  }
+div#item20050923123226 .MyNotesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123226 .MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .MyNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123226 .navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123226 .navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123226 .navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123226 .navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123226 .NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .NewThisWeekEvenRows {  }
+div#item20050923123226 .NewThisWeekOddRows {  }
+div#item20050923123226 .NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+div#item20050923123226 .PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+div#item20050923123226 .printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123226 .PublicNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123226 .RecommendedTitlesEvenRows {  }
+div#item20050923123226 .RecommendedTitlesOddRows {  }
+div#item20050923123226 .RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .SearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .SearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123226 .SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123226 .SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123226 .SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123226 .t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+div#item20050923123226 .t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+div#item20050923123226 .t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+div#item20050923123226 .t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+div#item20050923123226 .t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123226 .tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123226 .TextFrame { background-color: rgb(209, 200, 161); }
+div#item20050923123226 .toc { background-color: rgb(255, 255, 193); }
+div#item20050923123226 .Top5Border { background-color: rgb(208, 199, 222); }
+div#item20050923123226 .Top5EvenRows {  }
+div#item20050923123226 .Top5OddRows {  }
+div#item20050923123226 .Top5TableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123226 .toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+div#item20050923123226 .topmenu { background-color: rgb(143, 15, 15); }
+div#item20050923123226 .v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123226 .v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+div#item20050923123226 .v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123226 .v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123226 .v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123226 .v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+div#item20050923123226 .v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123226 .v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123226 .v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123226 .v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123226 .red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+div#item20050923123226 th { font-weight: normal; }
+div#item20050923123226 table { border-color: black; border-width: 1px; padding: 1ex; border-collapse: collapse; }
+div#item20050923123226 .docBookTitle, .docPartTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; font-weight: bold; }
+div#item20050923123226 .docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; }
+div#item20050923123226 .docSidebarTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; text-align: center; }
+div#item20050923123226 .docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; }
+div#item20050923123226 .docSection2Title, .docBibliosetTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: small; }
+div#item20050923123226 .docSection3Title, .docSection4Title, .docSection5Title { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123226 .docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123226 .docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123226 .docMonofont { font-family: Courier New,Courier,monospace; }
+div#item20050923123226 .docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123226 .docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+div#item20050923123226 .docRefCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+div#item20050923123226 .docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+div#item20050923123226 .docIndexterm { color: rgb(160, 160, 160); font-size: xx-small; }
+div#item20050923123226 .docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(96, 96, 96); font-size: xx-small; }
+div#item20050923123226 .docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+div#item20050923123226 .docNoteTitle { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; font-weight: bold; }
+div#item20050923123226 .docNormalTitle, .docTipTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123226 .docCautionsTitle { font-family: 'Times New Roman',Times,serif; color: rgb(204, 0, 0); font-size: x-small; font-weight: bold; }
+div#item20050923123226 .docLink { color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123226 .docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+div#item20050923123226 .docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+div#item20050923123226 .docEmphasis { font-style: italic; }
+div#item20050923123226 .docEmphBold, .docEmphStrong { font-weight: bold; }
+div#item20050923123226 .docEmphGray { color: rgb(192, 192, 192); }
+div#item20050923123226 .docEmphMark { background-color: rgb(192, 192, 192); }
+div#item20050923123226 .docEmphRev { color: silver; background-color: black; }
+div#item20050923123226 .docEmphStrike { text-decoration: line-through; }
+div#item20050923123226 .docEmphUl, .docEmphCursor { text-decoration: underline; }
+div#item20050923123226 .docEmphBoldItalic { font-style: italic; font-weight: bold; }
+div#item20050923123226 .docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+div#item20050923123226 .docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+div#item20050923123226 .docEmphHyperlink { color: black; }
+div#item20050923123226 .docCaps { text-transform: uppercase; }
+div#item20050923123226 .docStructname { font-variant: small-caps; }
+div#item20050923123226 .docPubcolor { color: rgb(53, 66, 120); }
+div#item20050923123226 h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+div#item20050923123226 pre { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123226 tt { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123226 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123226 .SideSmallText { font-size: 11px; }
+div#item20050923123226 .SmallNoteText { font-size: xx-small; }
+div#item20050923123226 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123226 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123226 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123226 .under_results {  }
+div#item20050923123226 .searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+div#item20050923123226 .search_options { margin-left: 10px; }
+div#item20050923123226 .search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123226 #results_panel .options a:hover { text-decoration: underline; }
+div#item20050923123226 .tabs {  }
+div#item20050923123226 .tabs img { margin-right: 6px; }
+div#item20050923123226 #results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123226 .header { background-color: rgb(171, 177, 187); }
+div#item20050923123226 .header_td { padding: 5px; }
+div#item20050923123226 .header_tbl {  }
+div#item20050923123226 .subheader { background-color: rgb(217, 220, 224); }
+div#item20050923123226 .subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+div#item20050923123226 .subheader a:link { color: rgb(98, 114, 140); }
+div#item20050923123226 .subheader a:visited { color: rgb(98, 114, 140); }
+div#item20050923123226 .subheader a:hover { color: rgb(98, 114, 140); }
+div#item20050923123226 .subheader a:active { color: rgb(98, 114, 140); }
+div#item20050923123226 .expand_btn { text-align: center; margin-bottom: 20px; }
+div#item20050923123226 .page_nav td { padding-right: 5px; }
+div#item20050923123226 .search_terms { float: left; padding-left: 6px; }
+div#item20050923123226 .num_results { float: left; padding-left: 6px; }
+div#item20050923123226 .page_nav_tbl { float: right; }
+div#item20050923123226 .result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123226 .result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123226 .book_label { color: rgb(51, 51, 153); font-weight: bold; }
+div#item20050923123226 .book_title { font-weight: bold; font-size: 11px; }
+div#item20050923123226 .articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123226 .panel_hed { padding: 15px 0pt 5px; }
+div#item20050923123226 .intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+div#item20050923123226 .detail_text_box { border: 1px solid rgb(157, 164, 176); }
+div#item20050923123226 .detail_text_title {  }
+div#item20050923123226 .detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123226 .detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+div#item20050923123226 .detail_text_title h3 { font-size: 16px; font-weight: bold; }
+div#item20050923123226 .detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+div#item20050923123226 .detail_text_box a:hover { color: rgb(157, 132, 176); }
+div#item20050923123226 .inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+div#item20050923123226 .inner_panel_cell { padding: 4px; }
+div#item20050923123226 .article_n { font-weight: bold; color: rgb(255, 153, 0); }
+div#item20050923123226 .guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+div#item20050923123226 .article_title { font-weight: bold; }
+div#item20050923123226 .search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+div#item20050923123226 .button { font-size: xx-small; }
+div#item20050923123226 .float_r { float: right; }
+div#item20050923123226 .checkbox { background-color: rgb(232, 235, 237); }
+div#item20050923123226 .hed_cell { padding-top: 15px; }
+div#item20050923123226 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123226 .SideSmallText { font-size: 11px; }
+div#item20050923123226 .SmallNoteText { font-size: xx-small; }
+div#item20050923123226 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123226 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123226 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123234 .safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+div#item20050923123234 .aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123234 .aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123234 .aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123234 .aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123234 .aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123234 .aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+div#item20050923123234 .aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123234 .aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+div#item20050923123234 .aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+div#item20050923123234 .a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123234 .a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123234 .a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123234 .a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123234 .a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123234 .a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123234 .a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123234 .a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123234 .a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123234 .a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+div#item20050923123234 .AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+div#item20050923123234 .bg { background-color: rgb(255, 255, 255); }
+div#item20050923123234 { background-color: white; color: black; }
+div#item20050923123234 .DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+div#item20050923123234 .DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123234 .dlg { background-color: rgb(255, 255, 204); }
+div#item20050923123234 .PricesMax { background-color: rgb(231, 159, 88); }
+div#item20050923123234 .PricesMaxOutline { background-color: rgb(204, 102, 0); }
+div#item20050923123234 .PricesBasic { background-color: rgb(238, 232, 233); }
+div#item20050923123234 .PricesBasicOutline { background-color: rgb(153, 153, 153); }
+div#item20050923123234 .entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+div#item20050923123234 .FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+div#item20050923123234 .FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+div#item20050923123234 .FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+div#item20050923123234 .GroupNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123234 .hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+div#item20050923123234 .ListByCatBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123234 .ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .ListByCatOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123234 .logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123234 .menuborder { background-color: rgb(220, 220, 235); }
+div#item20050923123234 .menuLeft { background-color: rgb(253, 226, 119); }
+div#item20050923123234 .menuRight { background-color: rgb(253, 226, 119); }
+div#item20050923123234 .menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+div#item20050923123234 .menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+div#item20050923123234 .MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123234 .MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123234 .MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .MyTokensBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123234 .MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .MyTokensOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123234 .MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+div#item20050923123234 .MyBookshelfEvenRows {  }
+div#item20050923123234 .MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .MyBookshelfTableHeading {  }
+div#item20050923123234 .MyNotesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123234 .MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .MyNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123234 .navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123234 .navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123234 .navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123234 .navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123234 .NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .NewThisWeekEvenRows {  }
+div#item20050923123234 .NewThisWeekOddRows {  }
+div#item20050923123234 .NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+div#item20050923123234 .PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+div#item20050923123234 .printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123234 .PublicNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123234 .RecommendedTitlesEvenRows {  }
+div#item20050923123234 .RecommendedTitlesOddRows {  }
+div#item20050923123234 .RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .SearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .SearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123234 .SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123234 .SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123234 .SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123234 .t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+div#item20050923123234 .t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+div#item20050923123234 .t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+div#item20050923123234 .t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+div#item20050923123234 .t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123234 .tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123234 .TextFrame { background-color: rgb(209, 200, 161); }
+div#item20050923123234 .toc { background-color: rgb(255, 255, 193); }
+div#item20050923123234 .Top5Border { background-color: rgb(208, 199, 222); }
+div#item20050923123234 .Top5EvenRows {  }
+div#item20050923123234 .Top5OddRows {  }
+div#item20050923123234 .Top5TableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123234 .toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+div#item20050923123234 .topmenu { background-color: rgb(143, 15, 15); }
+div#item20050923123234 .v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123234 .v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+div#item20050923123234 .v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123234 .v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123234 .v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123234 .v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+div#item20050923123234 .v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123234 .v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123234 .v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123234 .v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123234 .red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+div#item20050923123234 th { font-weight: normal; }
+div#item20050923123234 table { border-color: black; border-width: 1px; padding: 1ex; border-collapse: collapse; }
+div#item20050923123234 .docBookTitle, .docPartTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; font-weight: bold; }
+div#item20050923123234 .docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; }
+div#item20050923123234 .docSidebarTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; text-align: center; }
+div#item20050923123234 .docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; }
+div#item20050923123234 .docSection2Title, .docBibliosetTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: small; }
+div#item20050923123234 .docSection3Title, .docSection4Title, .docSection5Title { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123234 .docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123234 .docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123234 .docMonofont { font-family: Courier New,Courier,monospace; }
+div#item20050923123234 .docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123234 .docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+div#item20050923123234 .docRefCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+div#item20050923123234 .docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+div#item20050923123234 .docIndexterm { color: rgb(160, 160, 160); font-size: xx-small; }
+div#item20050923123234 .docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(96, 96, 96); font-size: xx-small; }
+div#item20050923123234 .docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+div#item20050923123234 .docNoteTitle { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; font-weight: bold; }
+div#item20050923123234 .docNormalTitle, .docTipTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123234 .docCautionsTitle { font-family: 'Times New Roman',Times,serif; color: rgb(204, 0, 0); font-size: x-small; font-weight: bold; }
+div#item20050923123234 .docLink { color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123234 .docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+div#item20050923123234 .docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+div#item20050923123234 .docEmphasis { font-style: italic; }
+div#item20050923123234 .docEmphBold, .docEmphStrong { font-weight: bold; }
+div#item20050923123234 .docEmphGray { color: rgb(192, 192, 192); }
+div#item20050923123234 .docEmphMark { background-color: rgb(192, 192, 192); }
+div#item20050923123234 .docEmphRev { color: silver; background-color: black; }
+div#item20050923123234 .docEmphStrike { text-decoration: line-through; }
+div#item20050923123234 .docEmphUl, .docEmphCursor { text-decoration: underline; }
+div#item20050923123234 .docEmphBoldItalic { font-style: italic; font-weight: bold; }
+div#item20050923123234 .docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+div#item20050923123234 .docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+div#item20050923123234 .docEmphHyperlink { color: black; }
+div#item20050923123234 .docCaps { text-transform: uppercase; }
+div#item20050923123234 .docStructname { font-variant: small-caps; }
+div#item20050923123234 .docPubcolor { color: rgb(53, 66, 120); }
+div#item20050923123234 h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+div#item20050923123234 pre { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123234 tt { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123234 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123234 .SideSmallText { font-size: 11px; }
+div#item20050923123234 .SmallNoteText { font-size: xx-small; }
+div#item20050923123234 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123234 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123234 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123234 .under_results {  }
+div#item20050923123234 .searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+div#item20050923123234 .search_options { margin-left: 10px; }
+div#item20050923123234 .search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123234 #results_panel .options a:hover { text-decoration: underline; }
+div#item20050923123234 .tabs {  }
+div#item20050923123234 .tabs img { margin-right: 6px; }
+div#item20050923123234 #results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123234 .header { background-color: rgb(171, 177, 187); }
+div#item20050923123234 .header_td { padding: 5px; }
+div#item20050923123234 .header_tbl {  }
+div#item20050923123234 .subheader { background-color: rgb(217, 220, 224); }
+div#item20050923123234 .subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+div#item20050923123234 .subheader a:link { color: rgb(98, 114, 140); }
+div#item20050923123234 .subheader a:visited { color: rgb(98, 114, 140); }
+div#item20050923123234 .subheader a:hover { color: rgb(98, 114, 140); }
+div#item20050923123234 .subheader a:active { color: rgb(98, 114, 140); }
+div#item20050923123234 .expand_btn { text-align: center; margin-bottom: 20px; }
+div#item20050923123234 .page_nav td { padding-right: 5px; }
+div#item20050923123234 .search_terms { float: left; padding-left: 6px; }
+div#item20050923123234 .num_results { float: left; padding-left: 6px; }
+div#item20050923123234 .page_nav_tbl { float: right; }
+div#item20050923123234 .result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123234 .result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123234 .book_label { color: rgb(51, 51, 153); font-weight: bold; }
+div#item20050923123234 .book_title { font-weight: bold; font-size: 11px; }
+div#item20050923123234 .articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123234 .panel_hed { padding: 15px 0pt 5px; }
+div#item20050923123234 .intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+div#item20050923123234 .detail_text_box { border: 1px solid rgb(157, 164, 176); }
+div#item20050923123234 .detail_text_title {  }
+div#item20050923123234 .detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123234 .detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+div#item20050923123234 .detail_text_title h3 { font-size: 16px; font-weight: bold; }
+div#item20050923123234 .detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+div#item20050923123234 .detail_text_box a:hover { color: rgb(157, 132, 176); }
+div#item20050923123234 .inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+div#item20050923123234 .inner_panel_cell { padding: 4px; }
+div#item20050923123234 .article_n { font-weight: bold; color: rgb(255, 153, 0); }
+div#item20050923123234 .guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+div#item20050923123234 .article_title { font-weight: bold; }
+div#item20050923123234 .search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+div#item20050923123234 .button { font-size: xx-small; }
+div#item20050923123234 .float_r { float: right; }
+div#item20050923123234 .checkbox { background-color: rgb(232, 235, 237); }
+div#item20050923123234 .hed_cell { padding-top: 15px; }
+div#item20050923123234 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123234 .SideSmallText { font-size: 11px; }
+div#item20050923123234 .SmallNoteText { font-size: xx-small; }
+div#item20050923123234 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123234 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123234 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123243 .safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+div#item20050923123243 .aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123243 .aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123243 .aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123243 .aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123243 .aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123243 .aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+div#item20050923123243 .aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123243 .aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+div#item20050923123243 .aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+div#item20050923123243 .a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123243 .a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123243 .a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123243 .a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123243 .a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123243 .a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123243 .a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123243 .a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123243 .a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123243 .a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+div#item20050923123243 .AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+div#item20050923123243 .bg { background-color: rgb(255, 255, 255); }
+div#item20050923123243 { background-color: white; color: black; }
+div#item20050923123243 .DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+div#item20050923123243 .DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123243 .dlg { background-color: rgb(255, 255, 204); }
+div#item20050923123243 .PricesMax { background-color: rgb(231, 159, 88); }
+div#item20050923123243 .PricesMaxOutline { background-color: rgb(204, 102, 0); }
+div#item20050923123243 .PricesBasic { background-color: rgb(238, 232, 233); }
+div#item20050923123243 .PricesBasicOutline { background-color: rgb(153, 153, 153); }
+div#item20050923123243 .entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+div#item20050923123243 .FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+div#item20050923123243 .FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+div#item20050923123243 .FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+div#item20050923123243 .GroupNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123243 .hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+div#item20050923123243 .ListByCatBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123243 .ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .ListByCatOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123243 .logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123243 .menuborder { background-color: rgb(220, 220, 235); }
+div#item20050923123243 .menuLeft { background-color: rgb(253, 226, 119); }
+div#item20050923123243 .menuRight { background-color: rgb(253, 226, 119); }
+div#item20050923123243 .menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+div#item20050923123243 .menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+div#item20050923123243 .MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123243 .MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123243 .MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .MyTokensBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123243 .MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .MyTokensOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123243 .MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+div#item20050923123243 .MyBookshelfEvenRows {  }
+div#item20050923123243 .MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .MyBookshelfTableHeading {  }
+div#item20050923123243 .MyNotesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123243 .MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .MyNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123243 .navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123243 .navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123243 .navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123243 .navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123243 .NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .NewThisWeekEvenRows {  }
+div#item20050923123243 .NewThisWeekOddRows {  }
+div#item20050923123243 .NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+div#item20050923123243 .PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+div#item20050923123243 .printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123243 .PublicNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123243 .RecommendedTitlesEvenRows {  }
+div#item20050923123243 .RecommendedTitlesOddRows {  }
+div#item20050923123243 .RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .SearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .SearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123243 .SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123243 .SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123243 .SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123243 .t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+div#item20050923123243 .t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+div#item20050923123243 .t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+div#item20050923123243 .t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+div#item20050923123243 .t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123243 .tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123243 .TextFrame { background-color: rgb(209, 200, 161); }
+div#item20050923123243 .toc { background-color: rgb(255, 255, 193); }
+div#item20050923123243 .Top5Border { background-color: rgb(208, 199, 222); }
+div#item20050923123243 .Top5EvenRows {  }
+div#item20050923123243 .Top5OddRows {  }
+div#item20050923123243 .Top5TableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123243 .toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+div#item20050923123243 .topmenu { background-color: rgb(143, 15, 15); }
+div#item20050923123243 .v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123243 .v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+div#item20050923123243 .v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123243 .v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123243 .v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123243 .v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+div#item20050923123243 .v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123243 .v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123243 .v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123243 .v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123243 .red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+div#item20050923123243 th { font-weight: normal; }
+div#item20050923123243 table { border-color: black; border-width: 1px; padding: 1ex; border-collapse: collapse; }
+div#item20050923123243 .docBookTitle, .docPartTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; font-weight: bold; }
+div#item20050923123243 .docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; }
+div#item20050923123243 .docSidebarTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; text-align: center; }
+div#item20050923123243 .docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; }
+div#item20050923123243 .docSection2Title, .docBibliosetTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: small; }
+div#item20050923123243 .docSection3Title, .docSection4Title, .docSection5Title { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123243 .docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123243 .docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123243 .docMonofont { font-family: Courier New,Courier,monospace; }
+div#item20050923123243 .docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123243 .docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+div#item20050923123243 .docRefCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+div#item20050923123243 .docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+div#item20050923123243 .docIndexterm { color: rgb(160, 160, 160); font-size: xx-small; }
+div#item20050923123243 .docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(96, 96, 96); font-size: xx-small; }
+div#item20050923123243 .docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+div#item20050923123243 .docNoteTitle { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; font-weight: bold; }
+div#item20050923123243 .docNormalTitle, .docTipTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123243 .docCautionsTitle { font-family: 'Times New Roman',Times,serif; color: rgb(204, 0, 0); font-size: x-small; font-weight: bold; }
+div#item20050923123243 .docLink { color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123243 .docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+div#item20050923123243 .docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+div#item20050923123243 .docEmphasis { font-style: italic; }
+div#item20050923123243 .docEmphBold, .docEmphStrong { font-weight: bold; }
+div#item20050923123243 .docEmphGray { color: rgb(192, 192, 192); }
+div#item20050923123243 .docEmphMark { background-color: rgb(192, 192, 192); }
+div#item20050923123243 .docEmphRev { color: silver; background-color: black; }
+div#item20050923123243 .docEmphStrike { text-decoration: line-through; }
+div#item20050923123243 .docEmphUl, .docEmphCursor { text-decoration: underline; }
+div#item20050923123243 .docEmphBoldItalic { font-style: italic; font-weight: bold; }
+div#item20050923123243 .docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+div#item20050923123243 .docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+div#item20050923123243 .docEmphHyperlink { color: black; }
+div#item20050923123243 .docCaps { text-transform: uppercase; }
+div#item20050923123243 .docStructname { font-variant: small-caps; }
+div#item20050923123243 .docPubcolor { color: rgb(53, 66, 120); }
+div#item20050923123243 h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+div#item20050923123243 pre { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123243 tt { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123243 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123243 .SideSmallText { font-size: 11px; }
+div#item20050923123243 .SmallNoteText { font-size: xx-small; }
+div#item20050923123243 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123243 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123243 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123243 .under_results {  }
+div#item20050923123243 .searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+div#item20050923123243 .search_options { margin-left: 10px; }
+div#item20050923123243 .search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123243 #results_panel .options a:hover { text-decoration: underline; }
+div#item20050923123243 .tabs {  }
+div#item20050923123243 .tabs img { margin-right: 6px; }
+div#item20050923123243 #results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123243 .header { background-color: rgb(171, 177, 187); }
+div#item20050923123243 .header_td { padding: 5px; }
+div#item20050923123243 .header_tbl {  }
+div#item20050923123243 .subheader { background-color: rgb(217, 220, 224); }
+div#item20050923123243 .subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+div#item20050923123243 .subheader a:link { color: rgb(98, 114, 140); }
+div#item20050923123243 .subheader a:visited { color: rgb(98, 114, 140); }
+div#item20050923123243 .subheader a:hover { color: rgb(98, 114, 140); }
+div#item20050923123243 .subheader a:active { color: rgb(98, 114, 140); }
+div#item20050923123243 .expand_btn { text-align: center; margin-bottom: 20px; }
+div#item20050923123243 .page_nav td { padding-right: 5px; }
+div#item20050923123243 .search_terms { float: left; padding-left: 6px; }
+div#item20050923123243 .num_results { float: left; padding-left: 6px; }
+div#item20050923123243 .page_nav_tbl { float: right; }
+div#item20050923123243 .result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123243 .result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123243 .book_label { color: rgb(51, 51, 153); font-weight: bold; }
+div#item20050923123243 .book_title { font-weight: bold; font-size: 11px; }
+div#item20050923123243 .articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123243 .panel_hed { padding: 15px 0pt 5px; }
+div#item20050923123243 .intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+div#item20050923123243 .detail_text_box { border: 1px solid rgb(157, 164, 176); }
+div#item20050923123243 .detail_text_title {  }
+div#item20050923123243 .detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123243 .detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+div#item20050923123243 .detail_text_title h3 { font-size: 16px; font-weight: bold; }
+div#item20050923123243 .detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+div#item20050923123243 .detail_text_box a:hover { color: rgb(157, 132, 176); }
+div#item20050923123243 .inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+div#item20050923123243 .inner_panel_cell { padding: 4px; }
+div#item20050923123243 .article_n { font-weight: bold; color: rgb(255, 153, 0); }
+div#item20050923123243 .guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+div#item20050923123243 .article_title { font-weight: bold; }
+div#item20050923123243 .search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+div#item20050923123243 .button { font-size: xx-small; }
+div#item20050923123243 .float_r { float: right; }
+div#item20050923123243 .checkbox { background-color: rgb(232, 235, 237); }
+div#item20050923123243 .hed_cell { padding-top: 15px; }
+div#item20050923123243 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123243 .SideSmallText { font-size: 11px; }
+div#item20050923123243 .SmallNoteText { font-size: xx-small; }
+div#item20050923123243 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123243 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123243 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123255 .safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+div#item20050923123255 .aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123255 .aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123255 .aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123255 .aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123255 .aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123255 .aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+div#item20050923123255 .aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123255 .aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+div#item20050923123255 .aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+div#item20050923123255 .a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123255 .a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123255 .a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123255 .a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123255 .a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123255 .a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123255 .a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123255 .a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123255 .a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123255 .a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+div#item20050923123255 .AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+div#item20050923123255 .bg { background-color: rgb(255, 255, 255); }
+div#item20050923123255 { background-color: white; color: black; }
+div#item20050923123255 .DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+div#item20050923123255 .DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123255 .dlg { background-color: rgb(255, 255, 204); }
+div#item20050923123255 .PricesMax { background-color: rgb(231, 159, 88); }
+div#item20050923123255 .PricesMaxOutline { background-color: rgb(204, 102, 0); }
+div#item20050923123255 .PricesBasic { background-color: rgb(238, 232, 233); }
+div#item20050923123255 .PricesBasicOutline { background-color: rgb(153, 153, 153); }
+div#item20050923123255 .entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+div#item20050923123255 .FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+div#item20050923123255 .FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+div#item20050923123255 .FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+div#item20050923123255 .GroupNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123255 .hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+div#item20050923123255 .ListByCatBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123255 .ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .ListByCatOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123255 .logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123255 .menuborder { background-color: rgb(220, 220, 235); }
+div#item20050923123255 .menuLeft { background-color: rgb(253, 226, 119); }
+div#item20050923123255 .menuRight { background-color: rgb(253, 226, 119); }
+div#item20050923123255 .menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+div#item20050923123255 .menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+div#item20050923123255 .MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123255 .MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123255 .MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .MyTokensBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123255 .MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .MyTokensOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123255 .MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+div#item20050923123255 .MyBookshelfEvenRows {  }
+div#item20050923123255 .MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .MyBookshelfTableHeading {  }
+div#item20050923123255 .MyNotesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123255 .MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .MyNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123255 .navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123255 .navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123255 .navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123255 .navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123255 .NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .NewThisWeekEvenRows {  }
+div#item20050923123255 .NewThisWeekOddRows {  }
+div#item20050923123255 .NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+div#item20050923123255 .PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+div#item20050923123255 .printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123255 .PublicNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123255 .RecommendedTitlesEvenRows {  }
+div#item20050923123255 .RecommendedTitlesOddRows {  }
+div#item20050923123255 .RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .SearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .SearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123255 .SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123255 .SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123255 .SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123255 .t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+div#item20050923123255 .t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+div#item20050923123255 .t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+div#item20050923123255 .t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+div#item20050923123255 .t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123255 .tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123255 .TextFrame { background-color: rgb(209, 200, 161); }
+div#item20050923123255 .toc { background-color: rgb(255, 255, 193); }
+div#item20050923123255 .Top5Border { background-color: rgb(208, 199, 222); }
+div#item20050923123255 .Top5EvenRows {  }
+div#item20050923123255 .Top5OddRows {  }
+div#item20050923123255 .Top5TableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123255 .toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+div#item20050923123255 .topmenu { background-color: rgb(143, 15, 15); }
+div#item20050923123255 .v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123255 .v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+div#item20050923123255 .v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123255 .v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123255 .v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123255 .v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+div#item20050923123255 .v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123255 .v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123255 .v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123255 .v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123255 .red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+div#item20050923123255 th { font-weight: normal; }
+div#item20050923123255 table { border-color: black; border-width: 1px; padding: 1ex; border-collapse: collapse; }
+div#item20050923123255 .docBookTitle, .docPartTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; font-weight: bold; }
+div#item20050923123255 .docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; }
+div#item20050923123255 .docSidebarTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; text-align: center; }
+div#item20050923123255 .docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; }
+div#item20050923123255 .docSection2Title, .docBibliosetTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: small; }
+div#item20050923123255 .docSection3Title, .docSection4Title, .docSection5Title { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123255 .docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123255 .docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123255 .docMonofont { font-family: Courier New,Courier,monospace; }
+div#item20050923123255 .docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123255 .docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+div#item20050923123255 .docRefCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+div#item20050923123255 .docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+div#item20050923123255 .docIndexterm { color: rgb(160, 160, 160); font-size: xx-small; }
+div#item20050923123255 .docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(96, 96, 96); font-size: xx-small; }
+div#item20050923123255 .docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+div#item20050923123255 .docNoteTitle { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; font-weight: bold; }
+div#item20050923123255 .docNormalTitle, .docTipTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123255 .docCautionsTitle { font-family: 'Times New Roman',Times,serif; color: rgb(204, 0, 0); font-size: x-small; font-weight: bold; }
+div#item20050923123255 .docLink { color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123255 .docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+div#item20050923123255 .docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+div#item20050923123255 .docEmphasis { font-style: italic; }
+div#item20050923123255 .docEmphBold, .docEmphStrong { font-weight: bold; }
+div#item20050923123255 .docEmphGray { color: rgb(192, 192, 192); }
+div#item20050923123255 .docEmphMark { background-color: rgb(192, 192, 192); }
+div#item20050923123255 .docEmphRev { color: silver; background-color: black; }
+div#item20050923123255 .docEmphStrike { text-decoration: line-through; }
+div#item20050923123255 .docEmphUl, .docEmphCursor { text-decoration: underline; }
+div#item20050923123255 .docEmphBoldItalic { font-style: italic; font-weight: bold; }
+div#item20050923123255 .docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+div#item20050923123255 .docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+div#item20050923123255 .docEmphHyperlink { color: black; }
+div#item20050923123255 .docCaps { text-transform: uppercase; }
+div#item20050923123255 .docStructname { font-variant: small-caps; }
+div#item20050923123255 .docPubcolor { color: rgb(53, 66, 120); }
+div#item20050923123255 h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+div#item20050923123255 pre { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123255 tt { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123255 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123255 .SideSmallText { font-size: 11px; }
+div#item20050923123255 .SmallNoteText { font-size: xx-small; }
+div#item20050923123255 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123255 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123255 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123255 .under_results {  }
+div#item20050923123255 .searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+div#item20050923123255 .search_options { margin-left: 10px; }
+div#item20050923123255 .search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123255 #results_panel .options a:hover { text-decoration: underline; }
+div#item20050923123255 .tabs {  }
+div#item20050923123255 .tabs img { margin-right: 6px; }
+div#item20050923123255 #results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123255 .header { background-color: rgb(171, 177, 187); }
+div#item20050923123255 .header_td { padding: 5px; }
+div#item20050923123255 .header_tbl {  }
+div#item20050923123255 .subheader { background-color: rgb(217, 220, 224); }
+div#item20050923123255 .subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+div#item20050923123255 .subheader a:link { color: rgb(98, 114, 140); }
+div#item20050923123255 .subheader a:visited { color: rgb(98, 114, 140); }
+div#item20050923123255 .subheader a:hover { color: rgb(98, 114, 140); }
+div#item20050923123255 .subheader a:active { color: rgb(98, 114, 140); }
+div#item20050923123255 .expand_btn { text-align: center; margin-bottom: 20px; }
+div#item20050923123255 .page_nav td { padding-right: 5px; }
+div#item20050923123255 .search_terms { float: left; padding-left: 6px; }
+div#item20050923123255 .num_results { float: left; padding-left: 6px; }
+div#item20050923123255 .page_nav_tbl { float: right; }
+div#item20050923123255 .result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123255 .result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123255 .book_label { color: rgb(51, 51, 153); font-weight: bold; }
+div#item20050923123255 .book_title { font-weight: bold; font-size: 11px; }
+div#item20050923123255 .articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123255 .panel_hed { padding: 15px 0pt 5px; }
+div#item20050923123255 .intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+div#item20050923123255 .detail_text_box { border: 1px solid rgb(157, 164, 176); }
+div#item20050923123255 .detail_text_title {  }
+div#item20050923123255 .detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123255 .detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+div#item20050923123255 .detail_text_title h3 { font-size: 16px; font-weight: bold; }
+div#item20050923123255 .detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+div#item20050923123255 .detail_text_box a:hover { color: rgb(157, 132, 176); }
+div#item20050923123255 .inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+div#item20050923123255 .inner_panel_cell { padding: 4px; }
+div#item20050923123255 .article_n { font-weight: bold; color: rgb(255, 153, 0); }
+div#item20050923123255 .guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+div#item20050923123255 .article_title { font-weight: bold; }
+div#item20050923123255 .search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+div#item20050923123255 .button { font-size: xx-small; }
+div#item20050923123255 .float_r { float: right; }
+div#item20050923123255 .checkbox { background-color: rgb(232, 235, 237); }
+div#item20050923123255 .hed_cell { padding-top: 15px; }
+div#item20050923123255 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123255 .SideSmallText { font-size: 11px; }
+div#item20050923123255 .SmallNoteText { font-size: xx-small; }
+div#item20050923123255 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123255 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123255 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123305 .safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+div#item20050923123305 .aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123305 .aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123305 .aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123305 .aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123305 .aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123305 .aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+div#item20050923123305 .aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123305 .aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+div#item20050923123305 .aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+div#item20050923123305 .a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123305 .a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123305 .a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123305 .a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123305 .a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123305 .a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123305 .a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123305 .a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123305 .a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123305 .a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+div#item20050923123305 .AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+div#item20050923123305 .bg { background-color: rgb(255, 255, 255); }
+div#item20050923123305 { background-color: white; color: black; }
+div#item20050923123305 .DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+div#item20050923123305 .DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123305 .dlg { background-color: rgb(255, 255, 204); }
+div#item20050923123305 .PricesMax { background-color: rgb(231, 159, 88); }
+div#item20050923123305 .PricesMaxOutline { background-color: rgb(204, 102, 0); }
+div#item20050923123305 .PricesBasic { background-color: rgb(238, 232, 233); }
+div#item20050923123305 .PricesBasicOutline { background-color: rgb(153, 153, 153); }
+div#item20050923123305 .entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+div#item20050923123305 .FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+div#item20050923123305 .FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+div#item20050923123305 .FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+div#item20050923123305 .GroupNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123305 .hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+div#item20050923123305 .ListByCatBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123305 .ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .ListByCatOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123305 .logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123305 .menuborder { background-color: rgb(220, 220, 235); }
+div#item20050923123305 .menuLeft { background-color: rgb(253, 226, 119); }
+div#item20050923123305 .menuRight { background-color: rgb(253, 226, 119); }
+div#item20050923123305 .menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+div#item20050923123305 .menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+div#item20050923123305 .MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123305 .MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123305 .MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .MyTokensBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123305 .MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .MyTokensOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123305 .MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+div#item20050923123305 .MyBookshelfEvenRows {  }
+div#item20050923123305 .MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .MyBookshelfTableHeading {  }
+div#item20050923123305 .MyNotesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123305 .MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .MyNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123305 .navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123305 .navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123305 .navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123305 .navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123305 .NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .NewThisWeekEvenRows {  }
+div#item20050923123305 .NewThisWeekOddRows {  }
+div#item20050923123305 .NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+div#item20050923123305 .PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+div#item20050923123305 .printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123305 .PublicNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123305 .RecommendedTitlesEvenRows {  }
+div#item20050923123305 .RecommendedTitlesOddRows {  }
+div#item20050923123305 .RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .SearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .SearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123305 .SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123305 .SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123305 .SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123305 .t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+div#item20050923123305 .t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+div#item20050923123305 .t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+div#item20050923123305 .t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+div#item20050923123305 .t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123305 .tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123305 .TextFrame { background-color: rgb(209, 200, 161); }
+div#item20050923123305 .toc { background-color: rgb(255, 255, 193); }
+div#item20050923123305 .Top5Border { background-color: rgb(208, 199, 222); }
+div#item20050923123305 .Top5EvenRows {  }
+div#item20050923123305 .Top5OddRows {  }
+div#item20050923123305 .Top5TableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123305 .toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+div#item20050923123305 .topmenu { background-color: rgb(143, 15, 15); }
+div#item20050923123305 .v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123305 .v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+div#item20050923123305 .v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123305 .v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123305 .v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123305 .v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+div#item20050923123305 .v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123305 .v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123305 .v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123305 .v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123305 .red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+div#item20050923123305 th { font-weight: normal; }
+div#item20050923123305 table { border-color: black; border-width: 1px; padding: 1ex; border-collapse: collapse; }
+div#item20050923123305 .docBookTitle, .docPartTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; font-weight: bold; }
+div#item20050923123305 .docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; }
+div#item20050923123305 .docSidebarTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; text-align: center; }
+div#item20050923123305 .docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; }
+div#item20050923123305 .docSection2Title, .docBibliosetTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: small; }
+div#item20050923123305 .docSection3Title, .docSection4Title, .docSection5Title { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123305 .docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123305 .docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123305 .docMonofont { font-family: Courier New,Courier,monospace; }
+div#item20050923123305 .docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123305 .docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+div#item20050923123305 .docRefCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+div#item20050923123305 .docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+div#item20050923123305 .docIndexterm { color: rgb(160, 160, 160); font-size: xx-small; }
+div#item20050923123305 .docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(96, 96, 96); font-size: xx-small; }
+div#item20050923123305 .docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+div#item20050923123305 .docNoteTitle { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; font-weight: bold; }
+div#item20050923123305 .docNormalTitle, .docTipTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123305 .docCautionsTitle { font-family: 'Times New Roman',Times,serif; color: rgb(204, 0, 0); font-size: x-small; font-weight: bold; }
+div#item20050923123305 .docLink { color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123305 .docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+div#item20050923123305 .docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+div#item20050923123305 .docEmphasis { font-style: italic; }
+div#item20050923123305 .docEmphBold, .docEmphStrong { font-weight: bold; }
+div#item20050923123305 .docEmphGray { color: rgb(192, 192, 192); }
+div#item20050923123305 .docEmphMark { background-color: rgb(192, 192, 192); }
+div#item20050923123305 .docEmphRev { color: silver; background-color: black; }
+div#item20050923123305 .docEmphStrike { text-decoration: line-through; }
+div#item20050923123305 .docEmphUl, .docEmphCursor { text-decoration: underline; }
+div#item20050923123305 .docEmphBoldItalic { font-style: italic; font-weight: bold; }
+div#item20050923123305 .docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+div#item20050923123305 .docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+div#item20050923123305 .docEmphHyperlink { color: black; }
+div#item20050923123305 .docCaps { text-transform: uppercase; }
+div#item20050923123305 .docStructname { font-variant: small-caps; }
+div#item20050923123305 .docPubcolor { color: rgb(53, 66, 120); }
+div#item20050923123305 h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+div#item20050923123305 pre { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123305 tt { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123305 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123305 .SideSmallText { font-size: 11px; }
+div#item20050923123305 .SmallNoteText { font-size: xx-small; }
+div#item20050923123305 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123305 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123305 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123305 .under_results {  }
+div#item20050923123305 .searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+div#item20050923123305 .search_options { margin-left: 10px; }
+div#item20050923123305 .search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123305 #results_panel .options a:hover { text-decoration: underline; }
+div#item20050923123305 .tabs {  }
+div#item20050923123305 .tabs img { margin-right: 6px; }
+div#item20050923123305 #results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123305 .header { background-color: rgb(171, 177, 187); }
+div#item20050923123305 .header_td { padding: 5px; }
+div#item20050923123305 .header_tbl {  }
+div#item20050923123305 .subheader { background-color: rgb(217, 220, 224); }
+div#item20050923123305 .subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+div#item20050923123305 .subheader a:link { color: rgb(98, 114, 140); }
+div#item20050923123305 .subheader a:visited { color: rgb(98, 114, 140); }
+div#item20050923123305 .subheader a:hover { color: rgb(98, 114, 140); }
+div#item20050923123305 .subheader a:active { color: rgb(98, 114, 140); }
+div#item20050923123305 .expand_btn { text-align: center; margin-bottom: 20px; }
+div#item20050923123305 .page_nav td { padding-right: 5px; }
+div#item20050923123305 .search_terms { float: left; padding-left: 6px; }
+div#item20050923123305 .num_results { float: left; padding-left: 6px; }
+div#item20050923123305 .page_nav_tbl { float: right; }
+div#item20050923123305 .result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123305 .result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123305 .book_label { color: rgb(51, 51, 153); font-weight: bold; }
+div#item20050923123305 .book_title { font-weight: bold; font-size: 11px; }
+div#item20050923123305 .articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123305 .panel_hed { padding: 15px 0pt 5px; }
+div#item20050923123305 .intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+div#item20050923123305 .detail_text_box { border: 1px solid rgb(157, 164, 176); }
+div#item20050923123305 .detail_text_title {  }
+div#item20050923123305 .detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123305 .detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+div#item20050923123305 .detail_text_title h3 { font-size: 16px; font-weight: bold; }
+div#item20050923123305 .detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+div#item20050923123305 .detail_text_box a:hover { color: rgb(157, 132, 176); }
+div#item20050923123305 .inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+div#item20050923123305 .inner_panel_cell { padding: 4px; }
+div#item20050923123305 .article_n { font-weight: bold; color: rgb(255, 153, 0); }
+div#item20050923123305 .guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+div#item20050923123305 .article_title { font-weight: bold; }
+div#item20050923123305 .search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+div#item20050923123305 .button { font-size: xx-small; }
+div#item20050923123305 .float_r { float: right; }
+div#item20050923123305 .checkbox { background-color: rgb(232, 235, 237); }
+div#item20050923123305 .hed_cell { padding-top: 15px; }
+div#item20050923123305 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123305 .SideSmallText { font-size: 11px; }
+div#item20050923123305 .SmallNoteText { font-size: xx-small; }
+div#item20050923123305 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123305 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123305 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123316 .safariXDlg { border: 1px solid rgb(4, 52, 178); padding: 2px; width: 100%; }
+div#item20050923123316 .aTopMenu { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123316 .aTopMenu:hover { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123316 .aBottomBoxesLink { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123316 .aBottomBoxesLink:link { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123316 .aBottomBoxesLink:visited { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: 700; color: black; text-decoration: underline; }
+div#item20050923123316 .aCells { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: none; }
+div#item20050923123316 .aCells:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123316 .aAuthor { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); text-decoration: underline; }
+div#item20050923123316 .aCategories { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(66, 62, 92); background-color: rgb(238, 242, 246); font-style: italic; }
+div#item20050923123316 .a1 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: underline; }
+div#item20050923123316 .a1:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123316 .a1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123316 .a2 { font-family: Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123316 .a2:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123316 .a2:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123316 .a3 { font-family: Arial,Helvetica,sans-serif; font-size: 7.5pt; color: rgb(75, 75, 75); text-decoration: none; }
+div#item20050923123316 .a3:link { text-decoration: underline; color: rgb(75, 75, 75); }
+div#item20050923123316 .a3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123316 .a4 { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; color: rgb(34, 34, 34); line-height: 18px; }
+div#item20050923123316 .AdvancedSearchTextHighlight { background-color: rgb(247, 229, 131); }
+div#item20050923123316 .bg { background-color: rgb(255, 255, 255); }
+div#item20050923123316 { background-color: white; color: black; }
+div#item20050923123316 .DefaultPageHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12pt; line-height: 14pt; font-weight: bold; }
+div#item20050923123316 .DefaultPageText { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123316 .dlg { background-color: rgb(255, 255, 204); }
+div#item20050923123316 .PricesMax { background-color: rgb(231, 159, 88); }
+div#item20050923123316 .PricesMaxOutline { background-color: rgb(204, 102, 0); }
+div#item20050923123316 .PricesBasic { background-color: rgb(238, 232, 233); }
+div#item20050923123316 .PricesBasicOutline { background-color: rgb(153, 153, 153); }
+div#item20050923123316 .entrybox1 { border: 1px solid rgb(231, 214, 142); font-family: Arial,Helvetica,sans-serif; font-size: 12px; }
+div#item20050923123316 .FAQBoxHeadline { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; color: rgb(204, 0, 51); text-decoration: none; font-weight: bold; line-height: 10pt; }
+div#item20050923123316 .FAQBoxQuestion { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 10pt; text-decoration: none; font-weight: bold; }
+div#item20050923123316 .FAQBoxAnswer { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(75, 75, 75); line-height: 10pt; font-weight: normal; }
+div#item20050923123316 .GroupNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .GroupNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .GroupNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .GroupNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .hdr1 { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123316 .hdr { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: 900; color: rgb(0, 0, 0); vertical-align: middle; line-height: 12px; margin-bottom: 15px; }
+div#item20050923123316 .ListByCatBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123316 .ListByCatEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .ListByCatOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .ListByCatTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .logout { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123316 .logout:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123316 .menuborder { background-color: rgb(220, 220, 235); }
+div#item20050923123316 .menuLeft { background-color: rgb(253, 226, 119); }
+div#item20050923123316 .menuRight { background-color: rgb(253, 226, 119); }
+div#item20050923123316 .menuRightHeader { font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 51, 102); }
+div#item20050923123316 .menuRightLoginHeader { font-family: Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; background-color: rgb(181, 18, 27); color: rgb(255, 210, 0); }
+div#item20050923123316 .MyBookmarksBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123316 .MyBookmarksEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .MyBookmarksOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .MyBookmarksTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .MyDownloadsBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123316 .MyDownloadsEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .MyDownloadsOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .MyDownloadsTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .MyTokensBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123316 .MyTokensEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .MyTokensOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .MyTokensTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .MyBookshelfBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123316 .MyBookshelfSpacer { background-color: rgb(237, 223, 223); }
+div#item20050923123316 .MyBookshelfEvenRows {  }
+div#item20050923123316 .MyBookshelfOddRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .MyBookshelfTableHeading {  }
+div#item20050923123316 .MyNotesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123316 .MyNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .MyNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .MyNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .MyRecentPagesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .MyRecentPagesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .MyRecentPagesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .MyRecentPagesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .MyRecentSearchesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .MyRecentSearchesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .MyRecentSearchesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .MyRecentSearchesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .n1 { padding: 7px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123316 .navbtn { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123316 .navbtn:hover { text-decoration: none; color: rgb(255, 210, 0); }
+div#item20050923123316 .navbtnSel { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123316 .navbtnLeft { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; }
+div#item20050923123316 .NewThisWeekBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .NewThisWeekEvenRows {  }
+div#item20050923123316 .NewThisWeekOddRows {  }
+div#item20050923123316 .NewThisWeekTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .PreviewTableTitleBackground { color: rgb(243, 229, 131); font-weight: bold; font-size: 9pt; line-height: 20px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(204, 0, 0); text-align: left; }
+div#item20050923123316 .PreviewTableBodyBackground { color: rgb(48, 48, 48); font-weight: normal; font-size: 8pt; line-height: 16px; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: none; background-color: rgb(255, 210, 211); }
+div#item20050923123316 .printhdr { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; }
+div#item20050923123316 .PublicNotesBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .PublicNotesEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .PublicNotesOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .PublicNotesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .RecommendedTitlesBorder { background-color: rgb(208, 199, 220); }
+div#item20050923123316 .RecommendedTitlesEvenRows {  }
+div#item20050923123316 .RecommendedTitlesOddRows {  }
+div#item20050923123316 .RecommendedTitlesTableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .SearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .SearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .SearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .SearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123316 .SectionSearchResultBorder { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .SectionSearchResultEvenRows { background-color: rgb(255, 255, 255); }
+div#item20050923123316 .SectionSearchResultOddRows { background-color: rgb(241, 239, 245); }
+div#item20050923123316 .SectionSearchResultTableHeading { border-style: solid; border-width: 1px 0px 0px 1px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); background-color: rgb(221, 217, 231); font-family: Arial,Helvetica,sans-serif; font-size: 8pt; padding-left: 2px; text-align: center; color: rgb(10, 10, 10); vertical-align: middle; line-height: 12px; }
+div#item20050923123316 .t1 { font-family: Arial,Helvetica,sans-serif; font-size: 12pt; color: rgb(34, 34, 34); font-weight: bold; }
+div#item20050923123316 .t2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none; }
+div#item20050923123316 .t3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8.5pt; font-weight: bold; text-decoration: none; background-color: rgb(157, 48, 54); color: rgb(255, 255, 123); }
+div#item20050923123316 .t4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(51, 51, 102); }
+div#item20050923123316 .t5 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123316 .tToolsTable { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: rgb(181, 18, 27); background-color: rgb(255, 210, 0); }
+div#item20050923123316 .TextFrame { background-color: rgb(209, 200, 161); }
+div#item20050923123316 .toc { background-color: rgb(255, 255, 193); }
+div#item20050923123316 .Top5Border { background-color: rgb(208, 199, 222); }
+div#item20050923123316 .Top5EvenRows {  }
+div#item20050923123316 .Top5OddRows {  }
+div#item20050923123316 .Top5TableHeading { background-color: rgb(221, 217, 231); }
+div#item20050923123316 .toplogo { background-color: rgb(255, 204, 0); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 16pt; color: rgb(48, 48, 48); }
+div#item20050923123316 .topmenu { background-color: rgb(143, 15, 15); }
+div#item20050923123316 .v1 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123316 .v1:link { text-decoration: none; color: rgb(0, 51, 153); }
+div#item20050923123316 .v1:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123316 .v2 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123316 .v2:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123316 .v3 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; text-decoration: none; color: rgb(75, 75, 75); }
+div#item20050923123316 .v3:link { text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123316 .v3:hover { text-decoration: underline; color: rgb(158, 11, 14); }
+div#item20050923123316 .v4 { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight: bold; color: rgb(48, 48, 48); line-height: 16px; text-decoration: none; }
+div#item20050923123316 .v4:link { font-weight: bold; text-decoration: none; color: rgb(48, 48, 48); }
+div#item20050923123316 .red { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; color: red; line-height: 16px; text-decoration: none; font-weight: bold; }
+div#item20050923123316 th { font-weight: normal; }
+div#item20050923123316 table { border-color: black; border-width: 1px; padding: 1ex; border-collapse: collapse; }
+div#item20050923123316 .docBookTitle, .docPartTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; font-weight: bold; }
+div#item20050923123316 .docPrefaceTitle, .docAppendixTitle, .docChapterTitle, .docBibliographyTitle, .docArticleTitle, .docGlossaryTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: large; }
+div#item20050923123316 .docSidebarTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; text-align: center; }
+div#item20050923123316 .docSection1Title, .docBibliodivTitle, .docBridgehead { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: medium; }
+div#item20050923123316 .docSection2Title, .docBibliosetTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: small; }
+div#item20050923123316 .docSection3Title, .docSection4Title, .docSection5Title { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123316 .docFigureTitle, .docTableTitle, .docExampleTitle, .docTocTitle, .docAbstractTitle, .docQandasetTitle, .docProcTitle, .docRefsectTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123316 .docText, .docList { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123316 .docMonofont { font-family: Courier New,Courier,monospace; }
+div#item20050923123316 .docTableHeader, .docTableCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; }
+div#item20050923123316 .docTableFooter { font-family: 'Times New Roman',Times,serif; color: black; font-size: xx-small; }
+div#item20050923123316 .docRefCell { font-family: 'Times New Roman',Times,serif; color: black; font-size: small; }
+div#item20050923123316 .docTextHighlight { background-color: rgb(238, 238, 238); color: rgb(204, 0, 0); }
+div#item20050923123316 .docIndexterm { color: rgb(160, 160, 160); font-size: xx-small; }
+div#item20050923123316 .docFootnote, .docItemizedlist { font-family: 'Times New Roman',Times,serif; color: rgb(96, 96, 96); font-size: xx-small; }
+div#item20050923123316 .docNote { margin-right: 2em; margin-bottom: 2em; margin-left: 2em; }
+div#item20050923123316 .docNoteTitle { font-family: 'Times New Roman',Times,serif; color: black; font-size: x-small; font-weight: bold; }
+div#item20050923123316 .docNormalTitle, .docTipTitle { font-family: 'Times New Roman',Times,serif; color: rgb(53, 66, 120); font-size: x-small; font-weight: bold; }
+div#item20050923123316 .docCautionsTitle { font-family: 'Times New Roman',Times,serif; color: rgb(204, 0, 0); font-size: x-small; font-weight: bold; }
+div#item20050923123316 .docLink { color: rgb(0, 51, 153); text-decoration: none; }
+div#item20050923123316 .docLink:visited { color: rgb(51, 102, 204); text-decoration: none; }
+div#item20050923123316 .docLink:hover { color: rgb(0, 0, 51); text-decoration: underline; }
+div#item20050923123316 .docEmphasis { font-style: italic; }
+div#item20050923123316 .docEmphBold, .docEmphStrong { font-weight: bold; }
+div#item20050923123316 .docEmphGray { color: rgb(192, 192, 192); }
+div#item20050923123316 .docEmphMark { background-color: rgb(192, 192, 192); }
+div#item20050923123316 .docEmphRev { color: silver; background-color: black; }
+div#item20050923123316 .docEmphStrike { text-decoration: line-through; }
+div#item20050923123316 .docEmphUl, .docEmphCursor { text-decoration: underline; }
+div#item20050923123316 .docEmphBoldItalic { font-style: italic; font-weight: bold; }
+div#item20050923123316 .docEmphRoman { font-style: normal; text-decoration: none; text-transform: none; font-weight: normal; font-variant: normal; }
+div#item20050923123316 .docEmphSmaller { color: rgb(53, 66, 120); font-size: 75%; }
+div#item20050923123316 .docEmphHyperlink { color: black; }
+div#item20050923123316 .docCaps { text-transform: uppercase; }
+div#item20050923123316 .docStructname { font-variant: small-caps; }
+div#item20050923123316 .docPubcolor { color: rgb(53, 66, 120); }
+div#item20050923123316 h1, h2, h3, h4, h5, h6 { color: rgb(53, 66, 120); }
+div#item20050923123316 pre { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123316 tt { color: black; font-family: MS Sans Serif,Courier New,Courier,monospace; font-size: 8pt; }
+div#item20050923123316 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123316 .SideSmallText { font-size: 11px; }
+div#item20050923123316 .SmallNoteText { font-size: xx-small; }
+div#item20050923123316 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123316 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123316 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+div#item20050923123316 .under_results {  }
+div#item20050923123316 .searchResults td { font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 10px; }
+div#item20050923123316 .search_options { margin-left: 10px; }
+div#item20050923123316 .search_options a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123316 #results_panel .options a:hover { text-decoration: underline; }
+div#item20050923123316 .tabs {  }
+div#item20050923123316 .tabs img { margin-right: 6px; }
+div#item20050923123316 #results_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123316 .header { background-color: rgb(171, 177, 187); }
+div#item20050923123316 .header_td { padding: 5px; }
+div#item20050923123316 .header_tbl {  }
+div#item20050923123316 .subheader { background-color: rgb(217, 220, 224); }
+div#item20050923123316 .subheader td { padding: 2px 5px; text-align: center; color: rgb(98, 114, 140); font-size: 9px; }
+div#item20050923123316 .subheader a:link { color: rgb(98, 114, 140); }
+div#item20050923123316 .subheader a:visited { color: rgb(98, 114, 140); }
+div#item20050923123316 .subheader a:hover { color: rgb(98, 114, 140); }
+div#item20050923123316 .subheader a:active { color: rgb(98, 114, 140); }
+div#item20050923123316 .expand_btn { text-align: center; margin-bottom: 20px; }
+div#item20050923123316 .page_nav td { padding-right: 5px; }
+div#item20050923123316 .search_terms { float: left; padding-left: 6px; }
+div#item20050923123316 .num_results { float: left; padding-left: 6px; }
+div#item20050923123316 .page_nav_tbl { float: right; }
+div#item20050923123316 .result_col { border-right: 1px solid rgb(208, 217, 219); border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123316 .result_col_last { border-bottom: 1px dotted rgb(208, 217, 219); padding: 5px; }
+div#item20050923123316 .book_label { color: rgb(51, 51, 153); font-weight: bold; }
+div#item20050923123316 .book_title { font-weight: bold; font-size: 11px; }
+div#item20050923123316 .articles_tbl { border: 1px solid rgb(157, 164, 176); background-color: white; }
+div#item20050923123316 .panel_hed { padding: 15px 0pt 5px; }
+div#item20050923123316 .intro_text, .detail_text { padding: 5px 0pt; color: rgb(157, 164, 176); }
+div#item20050923123316 .detail_text_box { border: 1px solid rgb(157, 164, 176); }
+div#item20050923123316 .detail_text_title {  }
+div#item20050923123316 .detail_text_title a { color: rgb(51, 51, 153); text-decoration: none; }
+div#item20050923123316 .detail_text_box .text, .detail_text_title h3 { margin: 0pt; padding: 0pt; color: rgb(125, 132, 144); }
+div#item20050923123316 .detail_text_title h3 { font-size: 16px; font-weight: bold; }
+div#item20050923123316 .detail_text_box a { color: rgb(128, 128, 192); text-decoration: underline; }
+div#item20050923123316 .detail_text_box a:hover { color: rgb(157, 132, 176); }
+div#item20050923123316 .inner_panel { border-bottom: 1px solid rgb(138, 145, 156); background-color: rgb(242, 249, 255); }
+div#item20050923123316 .inner_panel_cell { padding: 4px; }
+div#item20050923123316 .article_n { font-weight: bold; color: rgb(255, 153, 0); }
+div#item20050923123316 .guide_n { font-weight: bold; color: rgb(255, 51, 51); }
+div#item20050923123316 .article_title { font-weight: bold; }
+div#item20050923123316 .search_panel { font-size: 11px; font-weight: bold; width: 350px; float: right; }
+div#item20050923123316 .button { font-size: xx-small; }
+div#item20050923123316 .float_r { float: right; }
+div#item20050923123316 .checkbox { background-color: rgb(232, 235, 237); }
+div#item20050923123316 .hed_cell { padding-top: 15px; }
+div#item20050923123316 .PresentText { font-size: 16px; color: rgb(204, 0, 0); }
+div#item20050923123316 .SideSmallText { font-size: 11px; }
+div#item20050923123316 .SmallNoteText { font-size: xx-small; }
+div#item20050923123316 .CertificatesInputField { border: 1px solid black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10pt; width: 160px; }
+div#item20050923123316 .Error { color: rgb(170, 0, 0); font-weight: bold; }
+div#item20050923123316 .ErrorMessage { color: rgb(170, 0, 0); font-weight: bold; font-size: xx-small; }
+
+/* ::::: chrome://scrapbook/skin/combine.css ::::: */
+
+body { margin: 0px; background-color: rgb(255, 255, 255); }
+cite.scrapbook-header { border: 1px solid rgb(15, 169, 229); padding: 3px 6px; clear: both; display: block; font-family: 'MS UI Gothic','Tahoma','Verdana','Arial','Sans-Serif','Helvetica'; font-style: normal; font-size: 12px; background-color: rgb(231, 244, 252); }
+cite.scrapbook-header-invisible { border: medium none ; margin: 0px; padding: 0px; clear: both; display: none; height: 0px; }
+cite.scrapbook-header a { color: rgb(0, 0, 255); cursor: pointer; }
+cite.scrapbook-header img { vertical-align: middle; }
+cite.scrapbook-header a:hover { color: rgb(51, 136, 255); }
+iframe.scrapbook-iframe { border: 0px none ; margin: 0px; padding: 0px; width: 100%; height: 250px; }
